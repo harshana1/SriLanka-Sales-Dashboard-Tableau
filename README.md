@@ -1,4 +1,4 @@
-# 📊 Sri Lanka Sales & Profit Dashboard  
+# 📊 Sri Lanka Sales & Profit Dashboard Tableau
 
 [![Made with Tableau](https://img.shields.io/badge/Made%20with-Tableau-blue?logo=tableau)](https://public.tableau.com/)  
 [![Made with Excel](https://img.shields.io/badge/Data%20Prep-Excel-green?logo=microsoft-excel)](https://www.microsoft.com/excel)  
