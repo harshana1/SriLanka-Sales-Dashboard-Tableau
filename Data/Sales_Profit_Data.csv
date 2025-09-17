@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Province,Product_Category,Product_Name,Quantity,Sales,Discount,Profit
+1001,2025-06-03,141,Sabaragamuwa,Handicrafts,Wooden Mask,3,1909.69,0.23,70.77
+1002,2024-12-26,142,Central,Handicrafts,Wooden Mask,4,3904.06,0.24,-140.28
+1003,2022-05-04,143,Western,Tea,Herbal Tea,3,4903.65,0.26,-200.95
+1004,2024-11-23,144,Southern,Food,Coconut Oil,4,378.83,0.18,-28.02
+1005,2025-06-08,145,North Central,Garments,Dress,9,3672.2,0.27,-581.52
+1006,2025-03-11,146,Western,Spices,Nutmeg,1,4895.4,0.03,1029.58
+1007,2023-05-10,147,North Western,Spices,Nutmeg,8,4140.53,0.03,522.15
+1008,2023-06-29,148,North Central,Spices,Nutmeg,3,4894.73,0.19,376.88
+1009,2023-03-01,149,Northern,Spices,Cardamom,7,3200.71,0.17,277.95
+1010,2024-09-25,150,Northern,Garments,Women's Saree,5,373.23,0.09,10.36
+1011,2025-07-03,151,Western,Handicrafts,Brass Ornament,2,1504.74,0.09,33.51
+1012,2023-07-05,152,Northern,Tea,Herbal Tea,9,3079.58,0.1,143.61
+1013,2025-07-10,153,Southern,Food,Coconut Oil,6,4776.77,0.23,-531.87
+1014,2025-02-26,154,Western,Spices,Pepper,4,3075.62,0.26,97.84
+1015,2025-04-06,155,Sabaragamuwa,Garments,Jeans,5,4242.62,0.12,277.06
+1016,2025-10-20,156,Central,Garments,Men's Shirt,9,2005.33,0.13,84.7
+1017,2025-08-07,157,Eastern,Tea,Herbal Tea,9,1332.5,0.11,93.07
+1018,2025-06-05,158,Southern,Handicrafts,Wooden Mask,10,4297.63,0.18,60.36
+1019,2024-12-10,159,Southern,Spices,Cardamom,6,610.67,0.09,90.41
+1020,2025-03-18,160,Southern,Garments,Jeans,4,1765.65,0.01,238.82
+1021,2023-02-12,161,Western,Food,Biscuits,5,3395.75,0.03,832.06
+1022,2025-07-17,162,Western,Food,Snacks,6,4056.22,0.0,741.54
+1023,2023-02-17,163,Sabaragamuwa,Electronics,Headphones,1,2336.9,0.06,513.54
+1024,2023-01-27,164,Northern,Garments,Dress,10,2658.73,0.07,495.22
+1025,2025-06-27,165,Sabaragamuwa,Garments,Men's Shirt,10,4684.95,0.08,693.83
+1026,2024-11-03,166,North Central,Electronics,Laptop,10,802.51,0.01,84.43
+1027,2025-03-30,167,Sabaragamuwa,Spices,Pepper,9,4980.07,0.03,784.26
+1028,2023-12-09,168,Western,Electronics,Headphones,9,1734.71,0.26,-106.53
+1029,2024-09-06,169,Western,Garments,Women's Saree,4,4264.84,0.29,-367.16
+1030,2022-06-28,170,North Central,Spices,Cloves,9,1718.52,0.1,71.39
+1031,2024-03-24,171,Central,Garments,T-Shirt,7,3322.58,0.17,91.36
+1032,2022-04-27,172,Uva,Spices,Cardamom,10,4345.43,0.17,-173.08
+1033,2024-06-20,173,Western,Handicrafts,Wooden Mask,3,639.73,0.17,78.17
+1034,2024-01-30,174,North Western,Tea,Herbal Tea,3,4683.92,0.22,198.37
+1035,2024-12-08,175,North Western,Food,Rice,3,4716.61,0.15,151.66
+1036,2024-01-11,176,North Western,Spices,Nutmeg,3,3364.7,0.0,624.37
+1037,2023-11-21,177,North Western,Food,Biscuits,2,1229.74,0.11,215.39
+1038,2022-12-28,178,Western,Spices,Pepper,6,1412.09,0.18,131.49
+1039,2025-11-10,179,Sabaragamuwa,Electronics,Mobile Phone,6,3721.25,0.07,681.07
+1040,2024-12-20,180,Northern,Food,Coconut Oil,9,1491.3,0.19,6.21
+1041,2024-01-11,181,Western,Handicrafts,Brass Ornament,6,4134.62,0.02,550.47
+1042,2024-09-30,182,Northern,Food,Beverages,9,1545.91,0.17,-100.83
+1043,2025-05-07,183,Central,Spices,Pepper,4,700.66,0.04,178.26
+1044,2025-09-17,184,Central,Electronics,Smartwatch,10,2404.1,0.08,256.84
+1045,2022-07-31,185,Uva,Garments,Women's Saree,4,3426.64,0.16,176.4
+1046,2023-03-03,186,Southern,Handicrafts,Wooden Mask,6,3994.24,0.03,1010.91
+1047,2023-01-05,187,Southern,Handicrafts,Lacquerware,2,1903.93,0.28,31.8
+1048,2022-09-20,188,Northern,Tea,Ceylon Black Tea,10,1004.97,0.24,41.29
+1049,2025-08-19,189,Uva,Garments,T-Shirt,8,3732.5,0.12,235.39
+1050,2022-05-09,190,Sabaragamuwa,Garments,Dress,5,2702.13,0.08,453.06
+1051,2023-12-14,191,North Central,Tea,Herbal Tea,3,1636.2,0.3,-283.46
+1052,2025-03-22,192,Uva,Handicrafts,Lacquerware,7,1717.76,0.24,97.2
+1053,2023-04-20,193,North Central,Electronics,Smartwatch,1,737.15,0.28,-106.82
+1054,2025-07-16,194,Sabaragamuwa,Handicrafts,Brass Ornament,3,1015.8,0.1,53.84
+1055,2025-08-22,195,Uva,Electronics,Headphones,10,3533.84,0.16,407.32
+1056,2024-09-25,196,Northern,Garments,Jeans,9,4824.77,0.2,-281.27
+1057,2025-09-17,197,Western,Food,Coconut Oil,4,3495.8,0.24,-315.95
+1058,2022-07-17,198,Eastern,Food,Biscuits,5,2812.76,0.18,-201.16
+1059,2025-02-01,199,Central,Electronics,Laptop,9,2758.35,0.21,-240.86
+1060,2025-04-08,200,North Western,Spices,Cloves,2,3482.11,0.3,-621.67
+1061,2024-05-30,201,Western,Tea,Herbal Tea,4,2566.1,0.04,400.43
+1062,2025-08-27,202,North Western,Food,Snacks,7,4969.27,0.08,398.33
+1063,2022-07-08,203,Central,Tea,Ceylon Black Tea,1,1572.38,0.17,35.64
+1064,2024-04-26,204,Southern,Garments,T-Shirt,10,3509.52,0.12,516.88
+1065,2025-09-27,205,Western,Spices,Cloves,7,4096.04,0.24,-420.88
+1066,2023-10-02,206,Sabaragamuwa,Food,Snacks,10,4637.89,0.24,-475.67
+1067,2024-08-20,207,Eastern,Handicrafts,Lacquerware,5,2062.33,0.09,50.39
+1068,2022-06-25,208,Central,Garments,T-Shirt,2,2261.6,0.24,69.61
+1069,2022-04-05,209,Sabaragamuwa,Handicrafts,Lacquerware,3,3217.99,0.08,641.57
+1070,2023-06-01,210,North Central,Food,Snacks,8,2693.47,0.01,505.29
+1071,2023-06-16,211,Sabaragamuwa,Spices,Nutmeg,5,3159.73,0.14,244.57
+1072,2024-02-26,212,Southern,Garments,T-Shirt,2,1372.77,0.07,76.4
+1073,2025-01-31,213,North Central,Tea,Herbal Tea,10,4018.46,0.29,-741.94
+1074,2025-11-18,214,Eastern,Handicrafts,Brass Ornament,3,729.52,0.23,-54.38
+1075,2022-09-20,215,Northern,Electronics,Laptop,5,624.13,0.06,87.43
+1076,2024-12-13,216,Western,Garments,T-Shirt,10,4078.18,0.04,935.04
+1077,2025-06-09,217,Northern,Spices,Pepper,6,293.55,0.03,47.24
+1078,2025-02-25,218,Central,Garments,Dress,1,2371.87,0.07,337.3
+1079,2025-10-06,219,Western,Electronics,Smartwatch,1,4070.43,0.1,610.24
+1080,2025-11-03,220,Uva,Food,Coconut Oil,4,1180.71,0.24,23.28
+1081,2023-08-23,221,Eastern,Handicrafts,Lacquerware,6,2743.4,0.14,360.42
+1082,2022-08-12,222,North Western,Tea,Herbal Tea,5,1543.42,0.17,183.77
+1083,2022-01-20,223,Central,Electronics,Laptop,8,1720.16,0.03,342.94
+1084,2025-10-10,224,Northern,Tea,Herbal Tea,8,4164.9,0.28,-448.33
+1085,2022-08-23,225,North Western,Garments,Men's Shirt,7,4900.68,0.12,418.92
+1086,2023-12-29,226,Northern,Handicrafts,Handloom Bag,9,279.47,0.02,40.03
+1087,2024-01-30,227,Northern,Electronics,Laptop,3,599.09,0.07,21.4
+1088,2022-01-27,228,Uva,Tea,Ceylon Black Tea,4,4584.91,0.04,339.74
+1089,2022-08-22,229,Southern,Garments,Men's Shirt,6,4786.61,0.15,431.99
+1090,2025-01-23,230,Central,Handicrafts,Wooden Mask,4,4722.1,0.18,33.01
+1091,2025-11-24,231,Northern,Electronics,Headphones,8,248.24,0.13,20.87
+1092,2024-01-18,232,North Western,Spices,Pepper,3,3800.19,0.16,523.97
+1093,2022-03-26,233,Southern,Garments,T-Shirt,8,4508.58,0.01,924.6
+1094,2023-11-24,234,North Western,Electronics,Laptop,2,1005.15,0.21,22.93
+1095,2025-12-21,235,Uva,Tea,Green Tea,4,1950.2,0.17,118.38
+1096,2024-06-04,236,Uva,Tea,Green Tea,5,2900.15,0.13,-6.52
+1097,2024-11-16,237,Central,Food,Snacks,6,3038.86,0.11,159.86
+1098,2024-08-18,238,Eastern,Garments,Jeans,3,672.65,0.23,37.48
+1099,2023-10-12,239,Uva,Tea,Earl Grey Tea,6,4007.27,0.01,755.08
+1100,2023-06-24,240,Southern,Garments,Women's Saree,9,4714.21,0.02,766.87
+1101,2024-11-08,241,Western,Spices,Cardamom,1,4701.92,0.16,-222.01
+1102,2024-11-26,242,Central,Handicrafts,Brass Ornament,8,696.51,0.07,89.12
+1103,2023-07-02,243,Southern,Handicrafts,Lacquerware,2,2604.67,0.2,-52.19
+1104,2024-07-29,244,North Central,Garments,Jeans,3,854.49,0.16,91.11
+1105,2025-08-16,245,North Western,Garments,T-Shirt,10,491.25,0.03,52.68
+1106,2025-01-02,246,North Central,Tea,Earl Grey Tea,7,2803.7,0.02,446.44
+1107,2023-09-14,247,Central,Electronics,Mobile Phone,5,4670.55,0.13,648.7
+1108,2022-02-04,248,Western,Garments,T-Shirt,6,3418.99,0.08,678.07
+1109,2025-06-30,249,Northern,Food,Beverages,3,3635.17,0.19,232.31
+1110,2023-10-20,250,Sabaragamuwa,Garments,Women's Saree,2,2130.68,0.21,-89.66
+1111,2022-12-13,251,Western,Handicrafts,Handloom Bag,6,2154.17,0.18,160.66
+1112,2022-01-03,252,Central,Spices,Cloves,4,638.3,0.09,107.48
+1113,2022-06-28,253,North Western,Food,Coconut Oil,2,1384.14,0.06,302.77
+1114,2024-05-09,254,Uva,Tea,Herbal Tea,4,2812.46,0.21,6.7
+1115,2025-03-31,255,North Western,Electronics,Smartwatch,1,2737.44,0.2,254.28
+1116,2022-04-12,256,Central,Garments,Men's Shirt,5,4174.41,0.12,139.52
+1117,2022-11-09,257,Northern,Spices,Pepper,1,4501.1,0.26,-695.5
+1118,2022-07-16,258,North Central,Spices,Cinnamon,8,1592.54,0.15,-46.65
+1119,2023-03-04,259,Central,Electronics,Smartwatch,7,3533.15,0.06,344.34
+1120,2024-08-08,260,Uva,Spices,Pepper,3,1894.84,0.01,494.29
+1121,2025-08-25,261,Eastern,Spices,Cinnamon,6,4481.14,0.13,761.35
+1122,2022-08-19,262,Northern,Handicrafts,Wooden Mask,6,2560.52,0.09,387.16
+1123,2025-05-25,263,Southern,Spices,Pepper,10,1279.7,0.14,-27.49
+1124,2023-12-18,264,North Western,Handicrafts,Handloom Bag,4,4561.33,0.28,-438.83
+1125,2023-02-26,265,Eastern,Handicrafts,Handloom Bag,5,394.28,0.11,62.36
+1126,2025-10-13,266,Sabaragamuwa,Electronics,Headphones,2,764.46,0.28,-24.49
+1127,2023-12-29,267,Central,Spices,Cardamom,3,2066.25,0.24,-120.19
+1128,2022-03-23,268,Sabaragamuwa,Handicrafts,Wooden Mask,8,1402.75,0.0,171.27
+1129,2022-05-14,269,Sabaragamuwa,Handicrafts,Handloom Bag,10,1809.07,0.17,182.53
+1130,2022-12-06,270,Sabaragamuwa,Food,Snacks,7,2136.12,0.15,132.61
+1131,2025-05-10,271,Uva,Electronics,Smartwatch,3,893.11,0.25,22.87
+1132,2024-07-19,272,Eastern,Electronics,Headphones,1,203.98,0.07,32.48
+1133,2024-09-18,273,Northern,Spices,Cardamom,2,2778.5,0.17,-152.64
+1134,2023-11-02,274,Central,Garments,Jeans,4,915.4,0.12,130.85
+1135,2022-08-05,275,Northern,Spices,Cardamom,6,1429.27,0.18,22.05
+1136,2024-08-07,276,Northern,Tea,Green Tea,8,2464.91,0.15,97.75
+1137,2023-11-10,277,Northern,Tea,Earl Grey Tea,4,4149.32,0.19,-275.61
+1138,2022-07-23,278,North Central,Handicrafts,Handloom Bag,10,3857.6,0.07,223.02
+1139,2023-02-03,279,Uva,Food,Coconut Oil,6,2317.75,0.13,92.78
+1140,2022-11-19,280,Uva,Handicrafts,Lacquerware,9,3397.82,0.28,-496.68
+1141,2022-07-04,281,Southern,Spices,Pepper,2,4916.07,0.18,415.94
+1142,2025-01-12,282,North Central,Electronics,Mobile Phone,5,4441.94,0.27,-20.24
+1143,2024-11-14,283,Western,Garments,Men's Shirt,9,901.47,0.04,115.01
+1144,2024-04-13,284,Northern,Tea,Green Tea,6,4276.46,0.25,-389.52
+1145,2024-10-10,285,Uva,Tea,Ceylon Black Tea,10,2216.05,0.04,251.6
+1146,2023-01-18,286,Uva,Garments,Men's Shirt,6,3290.02,0.07,335.85
+1147,2022-05-10,287,Central,Garments,Women's Saree,4,4630.75,0.28,18.03
+1148,2022-06-18,288,Sabaragamuwa,Handicrafts,Handloom Bag,5,427.08,0.07,72.31
+1149,2022-01-04,289,Sabaragamuwa,Tea,Earl Grey Tea,4,1272.28,0.21,-1.97
+1150,2022-08-17,290,Uva,Tea,Green Tea,8,2447.33,0.07,281.86
+1151,2022-07-12,291,Uva,Garments,Jeans,1,788.77,0.24,29.18
+1152,2022-07-08,292,Uva,Garments,Men's Shirt,1,3113.88,0.0,481.69
+1153,2025-03-14,293,Uva,Spices,Nutmeg,1,2688.03,0.1,239.09
+1154,2025-08-10,294,North Central,Garments,Jeans,4,2214.76,0.24,-172.39
+1155,2025-08-31,295,North Western,Handicrafts,Brass Ornament,10,4163.65,0.22,45.81
+1156,2025-03-28,296,Uva,Food,Beverages,5,1972.27,0.27,18.95
+1157,2023-01-05,297,Western,Handicrafts,Lacquerware,7,1691.87,0.06,403.61
+1158,2022-10-06,298,Western,Garments,Jeans,2,3051.19,0.22,15.24
+1159,2023-01-25,299,Sabaragamuwa,Handicrafts,Lacquerware,10,3680.31,0.18,-173.62
+1160,2023-05-04,300,North Central,Handicrafts,Lacquerware,2,1564.0,0.24,-152.37
+1161,2025-08-10,301,Central,Electronics,Mobile Phone,5,3392.28,0.29,-260.02
+1162,2022-08-29,302,Northern,Spices,Cardamom,4,4321.99,0.02,400.4
+1163,2025-01-19,303,North Western,Food,Rice,6,220.54,0.27,2.29
+1164,2023-06-06,304,Western,Tea,Ceylon Black Tea,5,466.29,0.01,110.35
+1165,2024-07-27,305,Central,Garments,Jeans,2,4070.44,0.29,-562.12
+1166,2024-11-04,306,Sabaragamuwa,Tea,Green Tea,3,1867.17,0.17,12.19
+1167,2022-11-26,307,Northern,Tea,Earl Grey Tea,1,1091.58,0.12,181.14
+1168,2023-02-25,308,Southern,Spices,Nutmeg,8,3783.19,0.13,431.83
+1169,2024-12-25,309,North Western,Tea,Earl Grey Tea,4,1179.57,0.21,-39.81
+1170,2022-02-15,310,Northern,Tea,Ceylon Black Tea,2,3717.73,0.21,-106.17
+1171,2022-10-02,311,Sabaragamuwa,Garments,Men's Shirt,8,4757.94,0.18,300.18
+1172,2023-02-16,312,Sabaragamuwa,Spices,Cardamom,5,1482.37,0.09,158.46
+1173,2023-06-04,313,North Central,Tea,Green Tea,4,4893.19,0.13,546.37
+1174,2025-04-04,314,Western,Spices,Cinnamon,3,4633.42,0.24,-569.92
+1175,2024-04-15,315,Northern,Garments,Dress,6,930.37,0.16,16.71
+1176,2023-12-29,316,Eastern,Electronics,Headphones,4,523.34,0.26,-31.86
+1177,2024-05-14,317,North Central,Electronics,Headphones,1,728.62,0.25,-44.92
+1178,2025-05-06,318,Eastern,Garments,Jeans,9,3408.65,0.27,-137.59
+1179,2023-09-30,319,Northern,Electronics,Smartwatch,3,4253.23,0.3,-219.44
+1180,2024-12-27,320,Southern,Garments,T-Shirt,3,2686.97,0.11,19.66
+1181,2024-10-05,321,North Central,Handicrafts,Brass Ornament,6,3640.6,0.01,945.68
+1182,2022-04-28,322,Western,Electronics,Headphones,1,1388.55,0.05,193.22
+1183,2023-06-23,323,Northern,Food,Biscuits,6,398.58,0.06,21.56
+1184,2024-06-13,324,Eastern,Electronics,Laptop,5,1654.22,0.25,-162.72
+1185,2022-01-26,325,Southern,Tea,Green Tea,10,3698.16,0.13,380.47
+1186,2022-09-07,326,Northern,Spices,Cloves,10,1676.13,0.02,353.43
+1187,2023-02-16,327,Sabaragamuwa,Garments,Women's Saree,1,602.48,0.07,31.22
+1188,2024-09-11,328,Southern,Food,Snacks,10,1270.39,0.02,226.66
+1189,2025-09-03,329,Northern,Spices,Pepper,6,2079.72,0.09,243.56
+1190,2023-02-25,330,Southern,Electronics,Headphones,1,1329.45,0.03,264.37
+1191,2023-01-04,331,Southern,Electronics,Smartwatch,1,3772.43,0.25,-257.31
+1192,2022-05-02,332,Sabaragamuwa,Tea,Earl Grey Tea,10,624.28,0.23,5.36
+1193,2022-04-21,333,North Western,Food,Snacks,5,3270.63,0.23,-60.75
+1194,2022-08-12,334,Sabaragamuwa,Electronics,Mobile Phone,10,3667.49,0.28,-387.25
+1195,2023-11-06,335,Central,Food,Beverages,2,231.05,0.14,2.48
+1196,2022-04-04,336,Northern,Garments,Women's Saree,5,1548.02,0.04,105.65
+1197,2024-02-26,337,North Western,Spices,Cardamom,7,1706.11,0.02,448.06
+1198,2024-08-09,338,Eastern,Garments,Jeans,3,1056.01,0.24,-111.56
+1199,2022-04-22,339,Western,Handicrafts,Lacquerware,10,1941.62,0.17,169.47
+1200,2023-01-19,340,Central,Electronics,Headphones,7,4424.42,0.13,5.81
+1201,2025-09-11,341,Uva,Electronics,Mobile Phone,9,4661.55,0.21,394.1
+1202,2025-12-19,342,Central,Food,Beverages,7,3360.22,0.24,185.92
+1203,2023-12-26,343,Southern,Electronics,Headphones,2,833.22,0.03,101.72
+1204,2023-07-03,344,Central,Tea,Ceylon Black Tea,6,2202.38,0.05,412.25
+1205,2025-07-25,345,Sabaragamuwa,Electronics,Mobile Phone,5,286.14,0.03,55.6
+1206,2024-02-28,346,Northern,Garments,Jeans,2,4434.9,0.06,705.85
+1207,2025-02-20,347,North Western,Garments,T-Shirt,8,4252.73,0.08,526.28
+1208,2022-10-15,348,Sabaragamuwa,Tea,Earl Grey Tea,2,1661.76,0.02,336.28
+1209,2023-01-14,349,Central,Food,Biscuits,7,360.43,0.2,-22.49
+1210,2022-06-18,350,Sabaragamuwa,Tea,Green Tea,2,749.65,0.19,61.05
+1211,2024-07-13,351,Central,Food,Rice,4,2447.53,0.06,324.76
+1212,2024-01-07,352,Southern,Spices,Cloves,6,3184.82,0.13,149.68
+1213,2025-12-10,353,Northern,Garments,Dress,4,2312.32,0.03,495.86
+1214,2024-09-28,354,Southern,Electronics,Smartwatch,3,413.66,0.21,-44.84
+1215,2022-05-08,355,Sabaragamuwa,Spices,Cinnamon,3,4572.59,0.18,527.66
+1216,2024-08-08,356,North Central,Spices,Pepper,10,886.37,0.3,-38.45
+1217,2022-01-09,357,Sabaragamuwa,Spices,Cinnamon,9,2118.38,0.29,-10.86
+1218,2025-07-11,358,Western,Food,Biscuits,9,840.28,0.01,94.65
+1219,2025-09-15,359,Central,Spices,Cinnamon,8,2962.64,0.17,156.17
+1220,2022-10-02,360,Western,Spices,Nutmeg,7,3357.43,0.16,-175.66
+1221,2022-12-05,361,Northern,Spices,Pepper,10,4894.39,0.15,-103.35
+1222,2022-04-26,362,Southern,Handicrafts,Wooden Mask,5,707.31,0.16,-6.98
+1223,2022-02-07,363,North Western,Electronics,Smartwatch,5,3282.79,0.13,130.63
+1224,2024-03-06,364,North Western,Handicrafts,Wooden Mask,2,2879.6,0.1,32.73
+1225,2023-12-14,365,Uva,Tea,Green Tea,5,4418.16,0.24,-583.11
+1226,2023-09-26,366,Sabaragamuwa,Food,Beverages,4,3560.75,0.28,-2.86
+1227,2022-04-05,367,Central,Food,Biscuits,1,1765.31,0.24,-35.58
+1228,2022-08-02,368,Northern,Electronics,Laptop,10,749.75,0.16,-5.45
+1229,2025-10-12,369,Southern,Electronics,Laptop,2,4043.63,0.08,861.01
+1230,2025-04-14,370,Eastern,Handicrafts,Wooden Mask,10,3662.74,0.29,16.76
+1231,2023-02-20,371,North Central,Electronics,Headphones,5,266.37,0.24,-7.5
+1232,2022-10-15,372,Sabaragamuwa,Garments,Women's Saree,4,1331.6,0.12,190.76
+1233,2022-08-24,373,Eastern,Garments,Dress,5,3646.26,0.08,711.11
+1234,2023-08-14,374,Western,Spices,Cardamom,10,2922.65,0.23,113.49
+1235,2025-07-03,375,North Central,Garments,Women's Saree,4,626.82,0.25,1.57
+1236,2025-03-28,376,Eastern,Food,Biscuits,9,4293.86,0.26,142.67
+1237,2022-05-08,377,Central,Garments,Dress,5,3412.55,0.25,-235.83
+1238,2024-06-28,378,North Western,Handicrafts,Lacquerware,3,2256.25,0.01,308.73
+1239,2024-09-23,379,Southern,Spices,Cinnamon,9,2906.31,0.23,-188.93
+1240,2022-12-09,380,Central,Tea,Herbal Tea,3,738.52,0.25,-76.52
+1241,2022-02-13,381,Uva,Tea,Ceylon Black Tea,1,2508.15,0.1,290.03
+1242,2022-03-10,382,Northern,Electronics,Headphones,2,1088.94,0.12,140.58
+1243,2024-01-15,383,Sabaragamuwa,Tea,Earl Grey Tea,4,3742.13,0.03,938.48
+1244,2022-02-02,384,Sabaragamuwa,Spices,Cloves,4,3861.72,0.01,1054.99
+1245,2024-01-04,385,Eastern,Tea,Earl Grey Tea,9,1348.03,0.07,84.79
+1246,2024-01-17,386,Central,Spices,Nutmeg,10,4229.68,0.2,-6.02
+1247,2024-05-06,387,Eastern,Handicrafts,Wooden Mask,10,2666.86,0.25,-205.38
+1248,2023-08-05,388,Southern,Spices,Cloves,2,277.67,0.23,8.34
+1249,2025-09-21,389,North Western,Food,Biscuits,7,1517.4,0.17,119.93
+1250,2024-12-13,390,Eastern,Tea,Green Tea,6,3361.21,0.02,392.79
+1251,2022-12-25,391,Uva,Spices,Cinnamon,5,3606.0,0.01,714.43
+1252,2025-04-04,392,Sabaragamuwa,Electronics,Mobile Phone,9,1259.54,0.24,57.97
+1253,2022-08-30,393,Uva,Garments,T-Shirt,9,2222.27,0.29,-193.55
+1254,2022-10-21,394,Northern,Electronics,Laptop,5,1143.09,0.24,-130.51
+1255,2023-03-31,395,Southern,Garments,Dress,7,1424.63,0.1,271.08
+1256,2023-12-01,396,North Central,Tea,Green Tea,7,318.21,0.22,5.37
+1257,2022-03-27,397,Eastern,Garments,Men's Shirt,1,3937.75,0.28,-559.68
+1258,2022-05-02,398,Eastern,Garments,Jeans,10,1527.79,0.08,182.68
+1259,2022-03-14,399,North Central,Electronics,Headphones,6,564.72,0.07,31.48
+1260,2024-10-08,400,Central,Handicrafts,Wooden Mask,10,4267.72,0.05,680.95
+1261,2024-04-15,401,Eastern,Electronics,Smartwatch,8,1806.01,0.16,-65.61
+1262,2025-03-10,402,Eastern,Garments,Men's Shirt,9,1761.66,0.19,165.69
+1263,2024-06-17,403,Sabaragamuwa,Tea,Herbal Tea,2,2850.0,0.29,-365.15
+1264,2024-05-21,404,Central,Handicrafts,Handloom Bag,1,4051.25,0.25,26.35
+1265,2023-12-29,405,Northern,Garments,Jeans,1,4503.38,0.16,485.56
+1266,2022-01-23,406,Sabaragamuwa,Tea,Herbal Tea,8,4303.68,0.27,-199.47
+1267,2023-07-30,407,Western,Handicrafts,Lacquerware,7,4476.88,0.17,204.8
+1268,2022-07-12,408,North Western,Electronics,Headphones,8,3935.86,0.21,-199.15
+1269,2023-01-29,409,Sabaragamuwa,Electronics,Smartwatch,3,4702.74,0.21,-147.05
+1270,2023-09-08,410,Central,Garments,Women's Saree,5,4506.14,0.3,-301.38
+1271,2022-07-20,411,Western,Handicrafts,Lacquerware,7,2286.26,0.09,336.96
+1272,2023-12-14,412,Eastern,Garments,Women's Saree,10,3665.26,0.15,-112.86
+1273,2024-11-27,413,Central,Handicrafts,Handloom Bag,6,220.36,0.26,-19.68
+1274,2023-05-14,414,Eastern,Spices,Cinnamon,6,2651.06,0.12,263.58
+1275,2025-10-05,415,Uva,Handicrafts,Lacquerware,1,3259.0,0.22,89.87
+1276,2025-03-06,416,Northern,Handicrafts,Lacquerware,5,3397.18,0.28,-95.81
+1277,2024-04-16,417,Uva,Electronics,Smartwatch,7,3906.36,0.28,-513.89
+1278,2025-10-06,418,North Central,Spices,Cinnamon,4,2388.68,0.21,12.51
+1279,2025-01-14,419,Western,Electronics,Mobile Phone,8,850.87,0.23,20.37
+1280,2023-11-28,420,Northern,Handicrafts,Handloom Bag,2,596.12,0.15,81.81
+1281,2025-11-18,421,Western,Tea,Herbal Tea,9,4544.14,0.21,-238.23
+1282,2025-01-31,422,Central,Electronics,Smartwatch,8,3611.92,0.09,557.42
+1283,2024-06-07,423,Southern,Garments,Dress,10,3603.94,0.15,367.4
+1284,2025-12-22,424,Northern,Electronics,Smartwatch,1,1528.72,0.29,-157.79
+1285,2023-10-28,425,North Central,Electronics,Smartwatch,2,4903.68,0.3,-691.52
+1286,2023-09-23,426,Uva,Spices,Cardamom,6,4224.08,0.19,441.61
+1287,2023-01-26,427,Eastern,Tea,Green Tea,5,1561.96,0.24,83.86
+1288,2024-06-29,428,Uva,Food,Beverages,6,4592.92,0.22,188.95
+1289,2025-12-19,429,North Western,Handicrafts,Brass Ornament,5,4901.18,0.11,455.94
+1290,2022-11-12,430,Western,Garments,Jeans,9,2807.64,0.23,37.42
+1291,2025-05-15,431,Uva,Food,Rice,10,4762.39,0.01,525.05
+1292,2025-09-19,432,North Central,Electronics,Mobile Phone,9,1016.68,0.07,189.68
+1293,2023-09-19,433,Northern,Electronics,Smartwatch,10,4772.51,0.21,100.74
+1294,2024-10-26,434,Western,Electronics,Smartwatch,10,2403.61,0.19,145.59
+1295,2025-02-06,435,Uva,Spices,Cloves,10,4045.22,0.14,-66.74
+1296,2022-12-29,436,North Western,Tea,Green Tea,9,693.44,0.16,-1.63
+1297,2025-08-13,437,Northern,Spices,Cardamom,3,4143.01,0.25,-609.4
+1298,2022-08-05,438,Uva,Tea,Earl Grey Tea,4,3572.67,0.06,831.84
+1299,2025-09-19,439,Sabaragamuwa,Electronics,Smartwatch,2,3403.13,0.13,102.92
+1300,2022-03-04,440,Central,Electronics,Mobile Phone,1,1367.64,0.03,256.94
+1301,2025-04-23,441,Northern,Garments,T-Shirt,6,536.66,0.3,-70.3
+1302,2023-07-12,442,Uva,Garments,T-Shirt,1,4889.04,0.2,-450.51
+1303,2022-05-02,443,Southern,Handicrafts,Handloom Bag,2,1636.19,0.1,67.91
+1304,2025-11-07,444,Sabaragamuwa,Garments,Men's Shirt,4,4129.97,0.01,694.9
+1305,2023-08-05,445,Uva,Garments,Dress,5,2152.43,0.23,-30.06
+1306,2024-08-14,446,North Western,Handicrafts,Wooden Mask,3,1338.25,0.06,62.59
+1307,2022-09-27,447,Eastern,Tea,Earl Grey Tea,3,4245.54,0.26,-12.81
+1308,2022-03-17,448,Northern,Food,Rice,10,3905.31,0.11,27.75
+1309,2024-07-07,449,North Central,Spices,Nutmeg,6,3578.02,0.1,51.93
+1310,2023-09-02,450,Sabaragamuwa,Food,Rice,7,2665.7,0.09,316.61
+1311,2025-09-13,451,Central,Tea,Earl Grey Tea,3,3327.98,0.3,-2.24
+1312,2024-11-12,452,North Central,Electronics,Mobile Phone,1,3103.18,0.04,675.77
+1313,2024-10-24,453,Eastern,Spices,Cloves,3,762.62,0.05,142.14
+1314,2023-11-06,454,Central,Tea,Ceylon Black Tea,1,3995.63,0.23,100.64
+1315,2024-11-08,455,Northern,Handicrafts,Brass Ornament,10,829.48,0.17,-0.89
+1316,2025-04-16,456,Northern,Handicrafts,Wooden Mask,1,4887.77,0.08,1067.02
+1317,2023-03-06,457,Northern,Electronics,Mobile Phone,5,3322.64,0.01,433.67
+1318,2022-02-05,458,Western,Food,Beverages,9,2447.65,0.17,111.35
+1319,2024-04-28,459,Uva,Electronics,Mobile Phone,8,881.45,0.12,63.82
+1320,2024-05-12,460,Uva,Food,Snacks,2,939.26,0.29,-60.09
+1321,2023-05-15,461,Sabaragamuwa,Handicrafts,Wooden Mask,7,1765.28,0.14,220.18
+1322,2022-03-09,462,Western,Handicrafts,Handloom Bag,4,1242.76,0.18,-94.59
+1323,2022-06-04,463,Central,Food,Snacks,4,296.06,0.27,-13.42
+1324,2025-05-21,464,Western,Spices,Cloves,2,1984.26,0.19,45.1
+1325,2025-04-03,465,Northern,Garments,Men's Shirt,2,4810.75,0.2,131.56
+1326,2023-02-04,466,Eastern,Food,Coconut Oil,8,3786.78,0.21,286.02
+1327,2025-02-14,467,North Central,Electronics,Smartwatch,10,1626.03,0.14,237.28
+1328,2024-08-13,468,Northern,Spices,Cinnamon,1,4451.57,0.09,166.75
+1329,2025-03-28,469,North Central,Handicrafts,Lacquerware,5,3821.24,0.18,173.09
+1330,2025-02-22,470,Eastern,Food,Beverages,3,636.55,0.25,14.37
+1331,2025-09-03,471,Southern,Food,Biscuits,10,3847.99,0.24,-241.2
+1332,2025-12-23,472,Western,Electronics,Mobile Phone,10,3842.09,0.28,39.35
+1333,2023-07-28,473,Northern,Spices,Cloves,2,2101.87,0.2,43.5
+1334,2022-05-17,474,Western,Handicrafts,Brass Ornament,2,2717.79,0.11,468.29
+1335,2023-01-15,475,Uva,Handicrafts,Wooden Mask,5,4134.96,0.12,383.94
+1336,2022-07-07,476,Sabaragamuwa,Handicrafts,Handloom Bag,2,430.55,0.07,24.26
+1337,2023-11-21,477,Central,Food,Snacks,3,568.24,0.12,38.11
+1338,2022-01-07,478,Sabaragamuwa,Electronics,Laptop,7,3528.46,0.27,-589.79
+1339,2025-08-15,479,Southern,Handicrafts,Wooden Mask,10,1712.29,0.23,104.19
+1340,2023-11-27,480,North Western,Electronics,Laptop,5,684.83,0.29,6.56
+1341,2023-03-18,481,Northern,Food,Rice,4,3466.0,0.16,412.42
+1342,2023-12-08,482,Southern,Garments,Dress,1,2950.98,0.26,-245.31
+1343,2024-01-11,483,North Western,Handicrafts,Handloom Bag,10,2859.66,0.18,-26.09
+1344,2025-10-18,484,North Western,Spices,Cloves,4,797.17,0.02,218.38
+1345,2025-05-09,485,North Western,Spices,Cloves,3,3604.25,0.19,16.87
+1346,2025-08-26,486,North Western,Spices,Pepper,10,4156.12,0.06,554.73
+1347,2025-03-13,487,Uva,Tea,Green Tea,1,3314.49,0.17,-3.5
+1348,2025-11-20,488,Southern,Electronics,Mobile Phone,7,2847.12,0.01,620.55
+1349,2022-07-28,489,Eastern,Spices,Cardamom,8,4882.72,0.03,1282.17
+1350,2022-11-15,490,Central,Food,Coconut Oil,2,3125.16,0.13,105.71
+1351,2024-03-13,491,Sabaragamuwa,Electronics,Laptop,7,3532.88,0.04,586.48
+1352,2025-09-06,492,Uva,Handicrafts,Brass Ornament,7,4221.58,0.07,404.11
+1353,2025-11-05,493,Sabaragamuwa,Food,Beverages,6,1297.04,0.07,207.27
+1354,2025-05-12,494,Central,Tea,Ceylon Black Tea,5,1030.75,0.1,197.68
+1355,2025-08-27,495,North Central,Garments,T-Shirt,1,449.04,0.2,38.03
+1356,2024-01-04,496,Western,Garments,Dress,6,4956.4,0.29,-671.14
+1357,2022-09-16,497,Uva,Spices,Cinnamon,7,1123.48,0.13,62.52
+1358,2024-12-27,498,Eastern,Tea,Green Tea,2,657.21,0.24,27.5
+1359,2023-01-17,499,Southern,Electronics,Smartwatch,8,2909.08,0.06,282.81
+1360,2025-11-15,500,North Central,Food,Biscuits,2,2297.03,0.22,171.94
+1361,2024-03-24,501,Northern,Garments,Jeans,9,1637.46,0.13,120.89
+1362,2022-01-18,502,Northern,Electronics,Headphones,4,4458.02,0.14,89.4
+1363,2022-02-27,503,Eastern,Spices,Cloves,2,1667.37,0.23,-177.15
+1364,2022-09-29,504,Central,Garments,Jeans,2,4899.81,0.18,94.5
+1365,2023-02-18,505,North Western,Garments,T-Shirt,10,4149.28,0.26,-612.17
+1366,2023-09-13,506,North Central,Garments,Jeans,7,1770.59,0.06,177.01
+1367,2023-08-25,507,Western,Spices,Pepper,3,1083.56,0.29,-160.17
+1368,2025-12-22,508,North Central,Tea,Green Tea,2,1279.48,0.18,136.41
+1369,2022-02-06,509,Central,Food,Coconut Oil,8,1868.1,0.12,269.02
+1370,2024-06-28,510,Western,Spices,Cloves,2,493.66,0.0,118.29
+1371,2022-02-06,511,North Central,Garments,T-Shirt,7,4573.6,0.28,-17.94
+1372,2023-07-09,512,Central,Spices,Nutmeg,4,3632.85,0.19,-166.83
+1373,2023-01-11,513,North Central,Spices,Cloves,3,2432.13,0.28,-33.74
+1374,2023-10-20,514,Northern,Tea,Green Tea,8,911.33,0.16,120.65
+1375,2023-04-15,515,Northern,Electronics,Headphones,7,4697.32,0.13,472.64
+1376,2025-04-08,516,North Central,Tea,Herbal Tea,9,3255.04,0.14,-95.13
+1377,2023-12-18,517,Western,Spices,Cinnamon,1,1279.77,0.16,-8.81
+1378,2025-07-20,518,Central,Spices,Cinnamon,3,4027.15,0.05,682.37
+1379,2022-12-16,519,North Western,Handicrafts,Wooden Mask,2,4556.05,0.03,704.86
+1380,2023-08-08,520,Sabaragamuwa,Electronics,Headphones,5,3121.09,0.27,-428.38
+1381,2022-05-28,521,Northern,Electronics,Smartwatch,1,4569.19,0.05,1063.29
+1382,2023-11-29,522,Southern,Handicrafts,Lacquerware,2,1290.29,0.27,-193.58
+1383,2025-09-27,523,Uva,Tea,Herbal Tea,9,361.28,0.13,-8.53
+1384,2025-04-03,524,Central,Handicrafts,Wooden Mask,3,2976.43,0.19,271.22
+1385,2023-05-11,525,Northern,Electronics,Smartwatch,2,4195.24,0.23,-184.1
+1386,2024-11-11,526,North Central,Spices,Pepper,3,826.92,0.1,17.03
+1387,2025-08-08,527,Southern,Spices,Cinnamon,8,4336.9,0.09,651.41
+1388,2025-04-25,528,North Western,Spices,Cardamom,7,3253.86,0.05,616.13
+1389,2025-09-19,529,North Western,Tea,Ceylon Black Tea,8,884.97,0.04,96.8
+1390,2023-12-05,530,Northern,Spices,Cardamom,1,3979.53,0.15,-41.98
+1391,2024-11-11,531,Uva,Spices,Cloves,1,1570.5,0.2,57.07
+1392,2022-09-13,532,Western,Tea,Herbal Tea,3,3897.93,0.21,334.66
+1393,2022-03-17,533,Uva,Handicrafts,Lacquerware,9,1016.2,0.11,113.68
+1394,2024-11-01,534,Uva,Garments,Women's Saree,2,369.53,0.06,39.79
+1395,2025-10-04,535,Southern,Garments,Jeans,9,512.07,0.03,96.1
+1396,2024-01-01,536,Central,Food,Beverages,3,3708.31,0.05,831.54
+1397,2023-07-30,537,Uva,Handicrafts,Brass Ornament,6,4847.55,0.2,-378.7
+1398,2023-08-20,538,Uva,Food,Snacks,3,1293.99,0.08,125.89
+1399,2023-12-19,539,North Central,Spices,Pepper,10,4127.53,0.29,-320.26
+1400,2024-05-17,540,North Central,Tea,Earl Grey Tea,9,4185.71,0.13,415.13
+1401,2024-07-01,541,Central,Spices,Cinnamon,3,577.43,0.25,-35.69
+1402,2024-11-13,542,Western,Electronics,Laptop,4,535.45,0.06,25.46
+1403,2023-10-31,543,Central,Tea,Earl Grey Tea,5,4288.41,0.2,-29.37
+1404,2024-02-20,544,Southern,Handicrafts,Wooden Mask,7,4605.48,0.18,-345.89
+1405,2023-08-23,545,Central,Spices,Nutmeg,6,3456.4,0.0,855.37
+1406,2024-12-16,546,Central,Electronics,Mobile Phone,5,1344.49,0.29,-65.9
+1407,2023-11-29,547,Southern,Tea,Earl Grey Tea,7,3291.82,0.04,234.5
+1408,2023-04-26,548,Sabaragamuwa,Electronics,Smartwatch,7,277.02,0.12,9.21
+1409,2022-07-16,549,Northern,Spices,Pepper,1,2583.04,0.1,386.62
+1410,2025-08-16,550,Sabaragamuwa,Handicrafts,Brass Ornament,4,4121.66,0.14,547.22
+1411,2025-02-10,551,Northern,Handicrafts,Brass Ornament,5,4791.88,0.01,870.36
+1412,2023-12-09,552,North Western,Food,Biscuits,7,1420.35,0.14,-32.94
+1413,2023-12-03,553,North Western,Electronics,Smartwatch,8,4528.45,0.16,519.39
+1414,2023-11-27,554,Southern,Electronics,Laptop,6,3586.78,0.25,-7.16
+1415,2022-06-16,555,Sabaragamuwa,Garments,T-Shirt,8,4301.91,0.1,462.57
+1416,2023-05-02,556,North Western,Tea,Earl Grey Tea,6,4702.63,0.1,608.37
+1417,2023-01-18,557,Central,Spices,Nutmeg,9,479.04,0.18,-1.66
+1418,2022-02-10,558,Southern,Tea,Green Tea,8,2364.79,0.08,516.06
+1419,2022-07-06,559,Eastern,Spices,Pepper,1,2707.68,0.03,679.62
+1420,2025-04-25,560,Sabaragamuwa,Food,Coconut Oil,5,723.88,0.27,-41.12
+1421,2023-06-07,561,Northern,Spices,Cloves,3,2794.26,0.07,427.27
+1422,2023-11-22,562,Eastern,Spices,Pepper,2,2745.47,0.11,281.08
+1423,2023-07-21,563,Central,Food,Snacks,9,2088.7,0.1,266.16
+1424,2025-11-11,564,Sabaragamuwa,Electronics,Headphones,2,1422.41,0.04,306.78
+1425,2022-03-22,565,Western,Handicrafts,Brass Ornament,10,2317.6,0.2,-173.57
+1426,2025-03-28,566,Eastern,Spices,Cinnamon,9,1743.48,0.27,-179.17
+1427,2024-04-03,567,Northern,Handicrafts,Brass Ornament,3,1504.07,0.11,193.55
+1428,2025-03-01,568,North Western,Garments,T-Shirt,3,2955.98,0.02,781.7
+1429,2023-06-23,569,Uva,Electronics,Smartwatch,3,3556.02,0.1,620.19
+1430,2024-12-07,570,Northern,Handicrafts,Lacquerware,2,4282.62,0.15,480.95
+1431,2022-04-10,571,Uva,Food,Biscuits,8,1722.0,0.27,-276.36
+1432,2024-03-02,572,Uva,Tea,Earl Grey Tea,6,2995.0,0.26,-59.09
+1433,2023-05-14,573,Northern,Food,Rice,2,4745.13,0.22,-104.84
+1434,2022-07-26,574,North Central,Handicrafts,Lacquerware,1,1904.74,0.15,191.09
+1435,2024-09-15,575,North Central,Tea,Earl Grey Tea,2,4355.98,0.14,254.87
+1436,2022-05-31,576,Eastern,Tea,Ceylon Black Tea,1,686.04,0.26,-84.27
+1437,2024-02-02,577,Northern,Spices,Cloves,3,2501.74,0.09,336.14
+1438,2024-10-05,578,Northern,Handicrafts,Wooden Mask,7,832.56,0.2,-65.75
+1439,2025-07-24,579,Southern,Handicrafts,Lacquerware,5,1589.74,0.21,77.98
+1440,2022-04-01,580,Uva,Food,Coconut Oil,8,3197.33,0.15,-11.17
+1441,2023-12-20,581,North Central,Handicrafts,Wooden Mask,9,639.19,0.24,-2.19
+1442,2024-10-15,582,Uva,Tea,Earl Grey Tea,9,2163.91,0.06,163.57
+1443,2024-03-03,583,North Western,Spices,Pepper,1,2400.4,0.15,194.35
+1444,2023-03-19,584,Northern,Spices,Pepper,9,989.89,0.28,-12.71
+1445,2022-01-23,585,North Western,Electronics,Mobile Phone,1,517.39,0.27,-67.2
+1446,2022-05-22,586,Western,Electronics,Headphones,3,1248.76,0.18,11.64
+1447,2023-12-20,587,Central,Garments,T-Shirt,1,4942.36,0.18,370.74
+1448,2022-02-07,588,Southern,Handicrafts,Brass Ornament,2,1300.84,0.14,138.67
+1449,2024-12-28,589,Northern,Food,Coconut Oil,9,2000.98,0.3,-196.37
+1450,2022-10-23,590,North Western,Electronics,Headphones,4,3303.62,0.08,108.2
+1451,2022-11-30,591,Eastern,Spices,Nutmeg,3,1066.67,0.13,1.1
+1452,2022-01-28,592,Southern,Garments,Dress,10,3285.63,0.02,667.26
+1453,2022-02-21,593,Southern,Garments,T-Shirt,5,3029.7,0.01,329.23
+1454,2023-04-14,594,North Central,Food,Rice,5,1599.93,0.15,39.61
+1455,2022-06-16,595,Sabaragamuwa,Spices,Nutmeg,10,3007.89,0.18,334.71
+1456,2023-05-16,596,Central,Garments,Jeans,1,2911.8,0.09,372.75
+1457,2023-03-09,597,Western,Garments,Jeans,2,4761.21,0.15,632.56
+1458,2024-08-10,598,North Western,Spices,Cloves,6,2451.66,0.28,-105.32
+1459,2022-10-19,599,Eastern,Garments,T-Shirt,8,2092.96,0.12,246.31
+1460,2023-12-01,600,Sabaragamuwa,Tea,Earl Grey Tea,1,2507.61,0.19,62.09
+1461,2025-04-12,601,North Western,Handicrafts,Brass Ornament,9,1076.96,0.09,208.89
+1462,2022-12-05,602,Western,Tea,Green Tea,2,1712.38,0.25,-97.73
+1463,2023-03-05,603,Uva,Garments,Jeans,10,2315.86,0.19,20.96
+1464,2022-03-20,604,North Western,Electronics,Mobile Phone,1,4011.21,0.09,274.66
+1465,2023-09-13,605,Eastern,Food,Snacks,9,3439.26,0.2,-77.07
+1466,2022-08-06,606,Eastern,Food,Rice,5,871.78,0.07,38.72
+1467,2025-08-15,607,Eastern,Handicrafts,Brass Ornament,1,3216.48,0.13,167.11
+1468,2025-10-18,608,Northern,Electronics,Headphones,4,546.54,0.01,54.17
+1469,2022-06-02,609,Uva,Food,Snacks,4,3438.88,0.14,97.64
+1470,2024-01-15,610,Uva,Spices,Cinnamon,3,4148.59,0.15,137.02
+1471,2023-09-06,611,Uva,Garments,Men's Shirt,4,3471.26,0.11,611.04
+1472,2025-04-26,612,Uva,Garments,Jeans,10,4888.04,0.14,75.85
+1473,2024-12-09,613,Central,Garments,Dress,5,1020.34,0.17,19.17
+1474,2025-12-12,614,Southern,Handicrafts,Brass Ornament,4,1580.48,0.21,108.61
+1475,2024-01-23,615,Sabaragamuwa,Tea,Earl Grey Tea,2,4829.44,0.15,513.21
+1476,2022-04-15,616,Uva,Food,Coconut Oil,3,4682.61,0.23,-58.75
+1477,2025-03-17,617,North Western,Food,Snacks,4,4310.98,0.28,44.27
+1478,2024-01-01,618,Central,Electronics,Laptop,9,1019.86,0.24,-67.24
+1479,2023-10-02,619,Eastern,Tea,Green Tea,5,2554.04,0.12,257.65
+1480,2025-06-26,620,Central,Handicrafts,Lacquerware,2,1007.07,0.24,56.74
+1481,2024-12-06,621,Southern,Spices,Nutmeg,8,4639.13,0.19,-112.49
+1482,2023-05-29,622,Western,Tea,Herbal Tea,8,4853.24,0.29,-603.47
+1483,2023-04-24,623,North Central,Handicrafts,Lacquerware,1,3097.45,0.08,515.47
+1484,2025-03-14,624,Uva,Electronics,Smartwatch,7,3908.45,0.16,82.24
+1485,2023-10-19,625,Sabaragamuwa,Tea,Ceylon Black Tea,8,2053.23,0.25,-32.22
+1486,2023-07-27,626,Western,Electronics,Laptop,3,557.27,0.08,42.57
+1487,2022-03-31,627,Central,Spices,Nutmeg,7,3767.17,0.08,748.95
+1488,2025-04-26,628,Central,Garments,Women's Saree,9,934.83,0.07,124.22
+1489,2024-06-19,629,North Western,Tea,Green Tea,1,4934.33,0.09,156.43
+1490,2023-08-16,630,Western,Food,Beverages,10,4511.35,0.17,91.55
+1491,2025-01-20,631,Uva,Spices,Cloves,9,2843.91,0.17,-129.82
+1492,2022-12-10,632,North Western,Electronics,Headphones,9,4851.14,0.21,308.09
+1493,2025-07-19,633,Southern,Tea,Green Tea,5,1844.8,0.05,227.21
+1494,2024-08-09,634,Central,Food,Rice,2,1240.15,0.02,183.82
+1495,2023-09-21,635,Uva,Electronics,Laptop,6,1077.13,0.03,249.29
+1496,2025-09-26,636,North Central,Food,Coconut Oil,2,3515.97,0.08,97.54
+1497,2022-07-23,637,North Western,Electronics,Smartwatch,5,1835.9,0.3,-365.26
+1498,2025-04-19,638,North Western,Food,Biscuits,9,1394.63,0.04,245.28
+1499,2022-03-31,639,Western,Spices,Cinnamon,8,977.61,0.21,-106.86
+1500,2024-05-07,640,Central,Food,Snacks,4,2428.19,0.04,329.66
+1501,2024-06-24,641,Eastern,Garments,Women's Saree,10,2515.33,0.26,-159.89
+1502,2023-12-29,642,Uva,Handicrafts,Brass Ornament,3,2630.82,0.07,205.85
+1503,2025-05-01,643,Southern,Food,Biscuits,6,3334.71,0.24,-464.06
+1504,2025-08-15,644,Eastern,Electronics,Smartwatch,1,2595.92,0.13,151.32
+1505,2024-02-21,645,Northern,Food,Snacks,8,3692.04,0.05,519.99
+1506,2024-08-16,646,North Western,Spices,Cinnamon,10,2368.15,0.24,-95.59
+1507,2025-03-31,647,Northern,Food,Beverages,4,4162.57,0.26,-54.35
+1508,2022-09-25,648,Eastern,Electronics,Mobile Phone,10,4650.38,0.29,-271.42
+1509,2023-01-20,649,Northern,Electronics,Mobile Phone,7,3153.53,0.05,461.96
+1510,2023-08-01,650,Uva,Handicrafts,Brass Ornament,4,679.7,0.08,100.84
+1511,2022-07-22,651,Southern,Garments,Dress,3,1153.22,0.04,167.45
+1512,2024-08-18,652,Western,Handicrafts,Lacquerware,1,4483.59,0.15,353.07
+1513,2022-01-05,653,Western,Spices,Nutmeg,3,3956.29,0.06,407.37
+1514,2024-06-08,654,Uva,Spices,Cloves,1,4049.11,0.03,953.15
+1515,2022-04-10,655,Sabaragamuwa,Food,Rice,1,4876.49,0.24,-221.44
+1516,2022-12-13,656,North Central,Handicrafts,Handloom Bag,8,1018.6,0.18,-31.32
+1517,2024-07-23,657,Sabaragamuwa,Food,Biscuits,2,2927.35,0.04,267.36
+1518,2024-03-17,658,Western,Handicrafts,Lacquerware,4,3401.6,0.2,-170.32
+1519,2024-05-25,659,Eastern,Food,Beverages,2,1156.58,0.12,24.87
+1520,2023-08-16,660,North Central,Tea,Ceylon Black Tea,1,3840.04,0.15,456.66
+1521,2022-11-24,661,Central,Electronics,Mobile Phone,4,202.82,0.24,-3.44
+1522,2025-08-07,662,North Western,Electronics,Laptop,9,1556.13,0.02,317.6
+1523,2025-10-03,663,Central,Garments,Dress,9,4179.65,0.05,796.0
+1524,2024-03-04,664,Northern,Handicrafts,Handloom Bag,8,3808.59,0.16,291.06
+1525,2023-10-01,665,North Western,Garments,Jeans,6,2374.83,0.06,247.27
+1526,2025-09-07,666,Western,Electronics,Headphones,9,374.57,0.18,17.42
+1527,2022-11-12,667,North Central,Handicrafts,Lacquerware,1,2310.39,0.04,387.61
+1528,2023-11-15,668,Western,Food,Coconut Oil,6,2065.28,0.13,298.6
+1529,2022-11-29,669,Uva,Food,Coconut Oil,5,828.31,0.26,20.56
+1530,2024-10-20,670,North Central,Handicrafts,Lacquerware,3,2435.12,0.0,688.17
+1531,2023-04-28,671,Eastern,Spices,Cloves,7,2897.31,0.06,661.47
+1532,2022-05-13,672,North Central,Garments,Jeans,4,3957.64,0.08,793.86
+1533,2023-03-14,673,Northern,Food,Rice,5,2941.02,0.3,-350.89
+1534,2022-01-27,674,Western,Tea,Herbal Tea,8,1610.13,0.02,145.3
+1535,2022-01-27,675,Southern,Food,Biscuits,10,1586.64,0.14,-28.88
+1536,2023-10-06,676,Northern,Spices,Nutmeg,8,4727.4,0.27,128.19
+1537,2025-03-13,677,Northern,Electronics,Mobile Phone,5,3739.08,0.27,-492.7
+1538,2024-01-03,678,Sabaragamuwa,Garments,Men's Shirt,10,3913.67,0.25,-145.18
+1539,2022-11-17,679,Central,Garments,Dress,3,261.29,0.08,21.84
+1540,2024-02-18,680,North Western,Garments,Dress,8,3770.64,0.21,313.47
+1541,2022-10-12,681,Northern,Spices,Pepper,1,2249.45,0.04,349.39
+1542,2022-12-31,682,Central,Garments,Women's Saree,6,312.48,0.2,-5.98
+1543,2024-03-25,683,Southern,Food,Beverages,9,3830.56,0.19,246.61
+1544,2025-07-11,684,Uva,Electronics,Smartwatch,1,2428.4,0.14,302.11
+1545,2024-01-20,685,Eastern,Garments,Women's Saree,6,1832.61,0.2,-67.13
+1546,2024-07-31,686,Southern,Spices,Cloves,10,3771.33,0.16,-86.4
+1547,2025-06-21,687,Sabaragamuwa,Food,Snacks,1,4403.34,0.06,361.75
+1548,2022-10-08,688,Central,Spices,Pepper,2,4818.76,0.12,10.73
+1549,2025-07-28,689,North Central,Electronics,Laptop,7,664.22,0.05,75.11
+1550,2024-03-25,690,Northern,Electronics,Headphones,9,3570.58,0.21,-201.76
+1551,2022-01-18,691,Western,Garments,Men's Shirt,6,4450.97,0.28,-509.29
+1552,2023-06-11,692,Central,Electronics,Smartwatch,5,3264.89,0.05,294.2
+1553,2023-07-06,693,Sabaragamuwa,Spices,Cinnamon,5,954.01,0.16,-13.54
+1554,2024-02-16,694,North Central,Handicrafts,Lacquerware,1,3267.71,0.06,592.89
+1555,2025-10-12,695,Southern,Spices,Cloves,6,1773.96,0.16,139.12
+1556,2023-10-21,696,Eastern,Garments,Women's Saree,1,2604.38,0.25,-298.56
+1557,2024-04-17,697,Eastern,Handicrafts,Handloom Bag,8,458.54,0.09,15.04
+1558,2022-01-13,698,Central,Handicrafts,Handloom Bag,2,3005.45,0.21,-71.65
+1559,2025-11-20,699,North Central,Tea,Green Tea,3,1601.69,0.07,270.53
+1560,2023-03-25,700,Sabaragamuwa,Tea,Ceylon Black Tea,3,2759.04,0.22,49.77
+1561,2022-11-20,701,Western,Handicrafts,Handloom Bag,10,1819.78,0.24,-224.52
+1562,2024-05-17,702,North Central,Handicrafts,Wooden Mask,5,1554.4,0.07,145.71
+1563,2022-01-02,703,Western,Electronics,Headphones,5,976.59,0.19,18.87
+1564,2022-11-05,704,Northern,Spices,Nutmeg,10,4226.66,0.14,466.56
+1565,2025-01-11,705,Western,Tea,Earl Grey Tea,10,3565.44,0.29,-416.21
+1566,2022-09-18,706,Southern,Handicrafts,Handloom Bag,9,284.15,0.16,-5.19
+1567,2022-12-30,707,Western,Spices,Cardamom,1,3136.09,0.27,-422.43
+1568,2025-09-11,708,Central,Tea,Ceylon Black Tea,8,2419.5,0.0,490.1
+1569,2023-01-16,709,Southern,Garments,Dress,7,1658.77,0.3,-275.49
+1570,2022-12-21,710,North Central,Garments,T-Shirt,10,2585.47,0.11,439.21
+1571,2025-10-31,711,Eastern,Garments,Dress,9,2079.01,0.08,449.21
+1572,2025-05-25,712,Northern,Tea,Green Tea,5,3167.43,0.21,236.88
+1573,2022-10-04,713,Western,Electronics,Smartwatch,9,2639.28,0.25,-334.69
+1574,2022-11-29,714,North Western,Spices,Nutmeg,9,969.47,0.27,-90.3
+1575,2024-03-22,715,North Central,Handicrafts,Handloom Bag,6,1584.24,0.03,272.92
+1576,2022-10-01,716,Central,Electronics,Laptop,6,3999.08,0.07,884.8
+1577,2025-02-06,717,Central,Electronics,Mobile Phone,8,4846.01,0.11,916.87
+1578,2023-01-14,718,Central,Electronics,Mobile Phone,8,2102.69,0.29,-86.6
+1579,2023-10-31,719,Northern,Garments,Women's Saree,7,3516.87,0.16,268.21
+1580,2024-09-25,720,Southern,Food,Biscuits,4,3122.44,0.15,466.86
+1581,2023-07-19,721,Uva,Electronics,Smartwatch,9,589.87,0.29,-111.05
+1582,2024-11-26,722,Central,Spices,Cardamom,10,4217.15,0.16,158.05
+1583,2022-08-28,723,Northern,Spices,Pepper,3,3994.6,0.17,169.99
+1584,2024-04-30,724,Sabaragamuwa,Food,Coconut Oil,2,3547.85,0.05,765.37
+1585,2022-01-09,725,Eastern,Electronics,Headphones,4,1656.15,0.11,115.34
+1586,2022-04-26,726,North Central,Handicrafts,Handloom Bag,10,4195.78,0.1,761.37
+1587,2025-11-14,727,Western,Electronics,Laptop,8,4469.26,0.11,407.35
+1588,2025-10-21,728,Eastern,Electronics,Headphones,5,3077.53,0.02,669.87
+1589,2025-09-04,729,North Central,Food,Snacks,6,506.97,0.17,-19.58
+1590,2024-05-21,730,Uva,Electronics,Laptop,5,2075.12,0.06,449.97
+1591,2024-07-26,731,North Western,Food,Rice,7,1911.83,0.14,127.66
+1592,2025-09-30,732,North Western,Tea,Earl Grey Tea,4,959.81,0.1,166.37
+1593,2024-01-27,733,Northern,Garments,Jeans,5,2993.64,0.11,203.15
+1594,2024-11-19,734,Uva,Garments,Dress,6,2167.22,0.18,79.23
+1595,2023-10-20,735,Central,Handicrafts,Brass Ornament,9,4666.31,0.19,191.14
+1596,2024-05-21,736,Southern,Spices,Cinnamon,3,4013.09,0.23,-236.25
+1597,2022-01-24,737,Sabaragamuwa,Handicrafts,Brass Ornament,3,2983.57,0.04,428.96
+1598,2025-01-20,738,Uva,Handicrafts,Handloom Bag,8,4284.98,0.01,903.38
+1599,2022-06-12,739,Uva,Electronics,Mobile Phone,7,848.46,0.18,83.66
+1600,2024-06-11,740,Western,Spices,Cardamom,8,2988.18,0.09,231.88
+1601,2025-12-28,741,Central,Spices,Pepper,8,4492.96,0.1,745.61
+1602,2022-09-03,742,North Central,Tea,Earl Grey Tea,1,652.93,0.24,-62.24
+1603,2023-11-23,743,Eastern,Handicrafts,Brass Ornament,2,411.42,0.22,1.62
+1604,2024-09-20,744,Southern,Handicrafts,Lacquerware,1,3610.63,0.12,424.23
+1605,2023-05-02,745,Western,Garments,Dress,9,3849.59,0.18,182.31
+1606,2022-06-11,746,Southern,Spices,Cloves,10,4608.51,0.02,992.46
+1607,2024-05-26,747,Southern,Garments,Dress,10,2823.78,0.25,-49.68
+1608,2022-04-04,748,Northern,Garments,Dress,10,3594.86,0.14,-107.48
+1609,2022-01-09,749,Eastern,Food,Rice,1,3077.91,0.21,-323.19
+1610,2022-08-23,750,Uva,Food,Snacks,5,1414.6,0.21,-1.03
+1611,2023-06-18,751,Eastern,Handicrafts,Wooden Mask,7,3335.13,0.18,-90.15
+1612,2024-06-06,752,Western,Spices,Cardamom,2,4044.42,0.09,512.52
+1613,2023-03-05,753,North Western,Handicrafts,Brass Ornament,2,2073.56,0.27,-95.22
+1614,2023-08-19,754,Sabaragamuwa,Handicrafts,Handloom Bag,10,2592.94,0.18,-136.79
+1615,2022-01-12,755,North Western,Garments,Women's Saree,1,1312.03,0.13,200.81
+1616,2025-07-01,756,Sabaragamuwa,Garments,Dress,1,3249.96,0.13,58.54
+1617,2025-04-28,757,Uva,Handicrafts,Wooden Mask,7,533.78,0.23,-30.11
+1618,2024-02-09,758,Northern,Spices,Cardamom,7,2826.4,0.07,215.04
+1619,2025-09-14,759,Eastern,Handicrafts,Wooden Mask,9,989.15,0.05,161.4
+1620,2022-09-14,760,North Western,Spices,Cinnamon,4,409.97,0.05,23.84
+1621,2024-09-04,761,Northern,Food,Beverages,8,3494.01,0.22,-170.68
+1622,2022-11-18,762,North Central,Electronics,Headphones,10,4834.7,0.07,999.94
+1623,2024-02-16,763,Northern,Electronics,Smartwatch,4,4489.34,0.3,-269.82
+1624,2023-12-26,764,Eastern,Electronics,Mobile Phone,10,1721.52,0.06,381.24
+1625,2025-01-17,765,Northern,Handicrafts,Lacquerware,10,1617.62,0.11,146.73
+1626,2024-05-04,766,Eastern,Handicrafts,Wooden Mask,8,3253.7,0.06,379.86
+1627,2024-03-17,767,Central,Spices,Pepper,9,972.1,0.09,41.9
+1628,2022-06-22,768,Southern,Tea,Green Tea,10,4750.92,0.09,431.56
+1629,2023-12-22,769,Uva,Tea,Earl Grey Tea,4,897.94,0.21,-92.35
+1630,2023-03-24,770,Southern,Electronics,Mobile Phone,2,2494.02,0.09,493.84
+1631,2024-03-23,771,North Western,Tea,Ceylon Black Tea,10,4002.27,0.23,48.68
+1632,2025-07-25,772,Eastern,Handicrafts,Lacquerware,7,3785.79,0.17,195.14
+1633,2022-09-30,773,North Western,Tea,Ceylon Black Tea,1,1567.62,0.16,104.06
+1634,2022-12-05,774,Eastern,Handicrafts,Brass Ornament,2,3152.13,0.1,344.38
+1635,2024-07-26,775,North Western,Food,Rice,10,4154.2,0.19,301.64
+1636,2022-12-27,776,Uva,Tea,Herbal Tea,10,621.14,0.02,146.79
+1637,2025-02-09,777,Sabaragamuwa,Food,Rice,10,2096.51,0.19,95.57
+1638,2022-10-22,778,Uva,Handicrafts,Lacquerware,8,2267.15,0.09,291.15
+1639,2023-07-19,779,Sabaragamuwa,Electronics,Laptop,2,4086.38,0.21,76.47
+1640,2022-03-22,780,Sabaragamuwa,Handicrafts,Handloom Bag,5,3621.32,0.22,31.69
+1641,2023-05-25,781,Southern,Garments,Men's Shirt,7,2892.53,0.28,-409.99
+1642,2024-10-07,782,Sabaragamuwa,Food,Biscuits,2,638.03,0.03,58.25
+1643,2025-03-26,783,Uva,Garments,Women's Saree,4,4404.0,0.11,37.54
+1644,2022-05-20,784,Central,Electronics,Smartwatch,5,1896.24,0.27,-44.4
+1645,2024-09-17,785,Eastern,Garments,Women's Saree,3,411.86,0.12,25.77
+1646,2023-06-29,786,North Central,Garments,Men's Shirt,2,4026.52,0.22,322.11
+1647,2022-10-24,787,Sabaragamuwa,Handicrafts,Handloom Bag,1,2127.67,0.06,238.79
+1648,2022-02-18,788,North Central,Tea,Ceylon Black Tea,5,356.92,0.25,-48.13
+1649,2022-07-26,789,Northern,Handicrafts,Lacquerware,1,3732.58,0.17,440.78
+1650,2025-08-17,790,North Western,Garments,Women's Saree,10,2452.04,0.22,149.36
+1651,2024-04-05,791,North Western,Spices,Pepper,4,1054.65,0.07,42.45
+1652,2022-03-03,792,Southern,Tea,Ceylon Black Tea,4,1303.16,0.03,195.47
+1653,2023-10-29,793,Uva,Spices,Cloves,7,4608.49,0.03,1121.87
+1654,2023-02-27,794,North Western,Tea,Ceylon Black Tea,7,2922.73,0.01,392.88
+1655,2024-10-02,795,Uva,Spices,Cardamom,6,4879.75,0.24,-595.6
+1656,2024-04-04,796,North Western,Handicrafts,Handloom Bag,7,3036.94,0.14,-4.09
+1657,2022-04-16,797,North Western,Electronics,Smartwatch,3,3185.19,0.11,67.73
+1658,2022-12-01,798,Sabaragamuwa,Handicrafts,Brass Ornament,6,3128.89,0.12,87.51
+1659,2025-10-01,799,North Central,Garments,Dress,2,3333.39,0.2,-185.12
+1660,2023-06-30,800,Southern,Handicrafts,Handloom Bag,3,4422.12,0.05,637.33
+1661,2022-05-08,801,Northern,Tea,Herbal Tea,8,1697.14,0.03,201.23
+1662,2024-09-06,802,Sabaragamuwa,Electronics,Mobile Phone,8,2122.52,0.17,-23.72
+1663,2022-01-03,803,Sabaragamuwa,Electronics,Headphones,1,1395.1,0.11,99.0
+1664,2024-08-06,804,Uva,Electronics,Laptop,3,1682.52,0.18,-66.17
+1665,2022-05-12,805,Uva,Spices,Cinnamon,4,3135.19,0.18,193.11
+1666,2023-04-06,806,Eastern,Handicrafts,Wooden Mask,6,1535.1,0.18,46.7
+1667,2023-09-25,807,North Western,Electronics,Mobile Phone,4,1413.63,0.3,-99.71
+1668,2022-07-23,808,Uva,Tea,Ceylon Black Tea,10,2917.22,0.25,-333.85
+1669,2024-09-12,809,Western,Food,Rice,6,2298.69,0.2,198.17
+1670,2025-07-10,810,Northern,Spices,Nutmeg,5,4112.54,0.1,759.98
+1671,2024-03-19,811,Central,Electronics,Laptop,3,1229.95,0.21,-77.89
+1672,2022-07-26,812,Southern,Electronics,Headphones,6,982.39,0.07,72.89
+1673,2022-01-12,813,Southern,Garments,Dress,6,1564.81,0.03,396.78
+1674,2023-12-05,814,Southern,Electronics,Laptop,3,2831.79,0.3,-147.38
+1675,2024-12-03,815,Sabaragamuwa,Electronics,Headphones,2,1726.14,0.09,188.49
+1676,2023-01-22,816,Central,Handicrafts,Handloom Bag,2,3235.72,0.04,446.09
+1677,2023-07-12,817,North Western,Handicrafts,Brass Ornament,2,1667.03,0.22,61.5
+1678,2024-12-16,818,Western,Garments,Men's Shirt,8,2430.46,0.11,133.33
+1679,2022-01-20,819,Western,Tea,Green Tea,4,3720.45,0.01,952.32
+1680,2024-10-05,820,Uva,Food,Biscuits,2,1714.6,0.08,242.33
+1681,2025-06-02,821,North Western,Spices,Pepper,8,3650.13,0.29,-84.67
+1682,2025-05-29,822,Uva,Handicrafts,Handloom Bag,8,3462.66,0.22,-215.99
+1683,2023-09-24,823,Eastern,Tea,Herbal Tea,1,2516.96,0.27,41.57
+1684,2024-04-22,824,Western,Tea,Ceylon Black Tea,1,703.43,0.14,112.09
+1685,2024-06-23,825,North Western,Handicrafts,Handloom Bag,5,3223.95,0.2,178.09
+1686,2022-09-01,826,Eastern,Handicrafts,Lacquerware,1,4283.13,0.02,601.24
+1687,2025-12-05,827,North Central,Garments,T-Shirt,9,3636.99,0.21,243.51
+1688,2025-02-20,828,North Western,Garments,Women's Saree,9,1191.48,0.13,32.18
+1689,2025-12-16,829,North Western,Tea,Ceylon Black Tea,4,3880.55,0.2,-386.71
+1690,2025-10-31,830,Northern,Spices,Pepper,10,3142.23,0.04,449.23
+1691,2024-06-21,831,Northern,Spices,Pepper,9,1889.2,0.2,17.71
+1692,2022-04-09,832,North Central,Food,Coconut Oil,3,2072.97,0.08,414.54
+1693,2024-08-10,833,Southern,Spices,Nutmeg,8,2794.45,0.16,-127.21
+1694,2024-09-19,834,North Western,Tea,Ceylon Black Tea,9,4345.34,0.06,220.32
+1695,2022-03-19,835,Northern,Food,Biscuits,7,764.42,0.12,44.3
+1696,2022-04-14,836,North Central,Tea,Green Tea,8,3669.11,0.29,-410.4
+1697,2022-08-19,837,North Central,Spices,Cinnamon,1,3780.07,0.19,-324.51
+1698,2025-01-03,838,North Central,Electronics,Laptop,1,1305.44,0.27,-201.43
+1699,2024-06-13,839,North Western,Handicrafts,Brass Ornament,7,3900.13,0.26,-195.03
+1700,2022-12-30,840,Southern,Spices,Nutmeg,1,2359.89,0.22,42.43
+1701,2022-10-30,841,North Western,Food,Biscuits,3,3786.33,0.24,84.58
+1702,2024-03-18,842,North Central,Handicrafts,Lacquerware,9,3717.44,0.17,-246.11
+1703,2022-12-01,843,Western,Electronics,Mobile Phone,9,3467.74,0.07,311.18
+1704,2025-07-02,844,North Western,Tea,Green Tea,4,2270.27,0.28,-219.22
+1705,2022-05-28,845,Uva,Tea,Herbal Tea,8,3214.83,0.15,-99.86
+1706,2025-03-30,846,Sabaragamuwa,Food,Coconut Oil,2,4174.2,0.14,498.52
+1707,2025-07-07,847,North Western,Handicrafts,Lacquerware,7,3792.22,0.2,-91.54
+1708,2025-09-25,848,Western,Electronics,Mobile Phone,6,1171.16,0.17,117.61
+1709,2025-08-07,849,Sabaragamuwa,Electronics,Mobile Phone,6,724.04,0.08,115.56
+1710,2025-03-28,850,Western,Spices,Cardamom,2,4174.19,0.17,-289.82
+1711,2025-03-07,851,Northern,Handicrafts,Lacquerware,2,4619.65,0.11,700.7
+1712,2023-02-01,852,Central,Electronics,Smartwatch,8,1883.16,0.08,44.51
+1713,2025-11-22,853,Western,Handicrafts,Brass Ornament,5,3958.35,0.21,201.62
+1714,2022-06-16,854,North Western,Tea,Green Tea,9,3769.56,0.11,499.32
+1715,2023-05-23,855,Western,Handicrafts,Brass Ornament,4,2248.89,0.14,237.12
+1716,2022-01-25,856,North Central,Garments,Women's Saree,2,293.83,0.06,54.52
+1717,2022-12-24,857,Eastern,Electronics,Mobile Phone,3,1325.87,0.08,229.77
+1718,2025-08-19,858,Central,Spices,Cinnamon,2,2790.41,0.02,237.89
+1719,2024-03-29,859,Northern,Garments,Women's Saree,4,3490.16,0.06,563.21
+1720,2022-05-27,860,Sabaragamuwa,Electronics,Laptop,9,4046.12,0.14,9.83
+1721,2024-05-29,861,Western,Tea,Ceylon Black Tea,5,3124.53,0.17,49.92
+1722,2024-08-10,862,Uva,Food,Beverages,4,2349.62,0.25,-332.52
+1723,2022-11-16,863,Western,Electronics,Laptop,6,3726.45,0.23,179.38
+1724,2024-07-09,864,Central,Food,Coconut Oil,10,2222.04,0.1,222.01
+1725,2022-01-27,865,Western,Handicrafts,Lacquerware,5,202.71,0.24,-7.89
+1726,2025-02-01,866,Northern,Handicrafts,Brass Ornament,7,1752.6,0.17,98.0
+1727,2025-02-14,867,Northern,Food,Beverages,8,3804.37,0.09,748.42
+1728,2024-12-15,868,Southern,Tea,Ceylon Black Tea,7,3675.11,0.15,-177.31
+1729,2023-02-09,869,North Central,Spices,Cloves,6,3592.02,0.13,166.95
+1730,2023-09-16,870,Eastern,Tea,Earl Grey Tea,2,2826.26,0.19,-198.8
+1731,2024-01-25,871,Northern,Food,Beverages,3,4954.08,0.12,658.23
+1732,2023-07-30,872,Sabaragamuwa,Garments,Women's Saree,6,389.56,0.03,30.53
+1733,2024-06-30,873,Central,Spices,Cloves,6,1054.01,0.17,126.58
+1734,2024-12-08,874,North Western,Food,Beverages,3,4057.81,0.3,-3.66
+1735,2024-08-11,875,Western,Garments,Men's Shirt,1,4952.46,0.08,350.59
+1736,2024-05-05,876,Uva,Handicrafts,Brass Ornament,3,451.73,0.01,105.7
+1737,2025-12-24,877,Northern,Handicrafts,Lacquerware,4,397.32,0.09,19.69
+1738,2025-12-31,878,North Central,Garments,T-Shirt,9,2428.72,0.23,-171.88
+1739,2023-04-08,879,Western,Tea,Green Tea,2,1879.87,0.01,198.05
+1740,2023-11-03,880,North Central,Spices,Cardamom,5,607.01,0.27,-73.97
+1741,2025-08-27,881,Western,Food,Biscuits,7,4848.75,0.23,66.82
+1742,2023-02-18,882,Uva,Electronics,Laptop,10,3777.37,0.21,-330.42
+1743,2022-10-16,883,Northern,Electronics,Headphones,6,4085.78,0.1,146.48
+1744,2022-10-03,884,Southern,Garments,Women's Saree,4,2899.92,0.05,471.14
+1745,2025-05-06,885,Central,Food,Biscuits,4,2267.79,0.06,312.67
+1746,2023-08-01,886,Southern,Garments,Dress,9,3487.6,0.27,-200.28
+1747,2024-03-14,887,Central,Electronics,Smartwatch,6,1103.55,0.16,-1.72
+1748,2023-08-22,888,North Central,Food,Rice,7,777.17,0.1,57.6
+1749,2022-01-12,889,Sabaragamuwa,Electronics,Headphones,1,3265.94,0.01,353.39
+1750,2023-01-10,890,Southern,Handicrafts,Handloom Bag,2,4338.77,0.18,-131.31
+1751,2023-08-13,891,Central,Spices,Cardamom,2,3137.69,0.28,-273.58
+1752,2022-09-23,892,Southern,Food,Biscuits,6,3478.22,0.28,-569.71
+1753,2022-10-21,893,Uva,Electronics,Headphones,1,2405.04,0.19,112.61
+1754,2025-01-04,894,Sabaragamuwa,Handicrafts,Brass Ornament,3,4280.51,0.17,405.33
+1755,2025-05-10,895,Western,Electronics,Mobile Phone,9,1549.94,0.23,34.16
+1756,2024-05-15,896,Eastern,Tea,Green Tea,8,3511.75,0.06,459.93
+1757,2024-04-07,897,Southern,Food,Rice,10,2542.11,0.29,-446.61
+1758,2024-10-07,898,Sabaragamuwa,Spices,Cloves,3,326.91,0.09,48.47
+1759,2023-08-12,899,Northern,Food,Biscuits,2,3847.37,0.13,-9.66
+1760,2022-05-09,900,North Western,Spices,Cinnamon,1,3975.66,0.23,-170.02
+1761,2024-02-29,901,North Central,Handicrafts,Lacquerware,5,2530.21,0.2,-141.9
+1762,2023-08-18,902,North Central,Garments,Men's Shirt,9,3058.75,0.14,-23.51
+1763,2023-06-17,903,North Central,Electronics,Laptop,1,3479.58,0.09,597.84
+1764,2022-08-29,904,North Western,Electronics,Headphones,2,952.37,0.18,-13.01
+1765,2024-08-28,905,North Western,Food,Rice,5,4809.96,0.03,935.05
+1766,2025-08-25,906,Southern,Tea,Green Tea,10,685.09,0.13,4.75
+1767,2023-03-04,907,North Western,Tea,Green Tea,1,2026.52,0.3,-102.79
+1768,2025-07-18,908,Uva,Tea,Earl Grey Tea,10,3503.43,0.09,59.15
+1769,2022-10-15,909,Southern,Electronics,Headphones,7,3707.35,0.18,282.91
+1770,2022-01-03,910,Northern,Electronics,Laptop,3,4483.59,0.0,1153.02
+1771,2025-05-10,911,Southern,Garments,Jeans,7,3939.74,0.16,401.49
+1772,2022-12-15,912,Central,Handicrafts,Handloom Bag,7,4950.74,0.06,1039.41
+1773,2024-06-06,913,Uva,Tea,Earl Grey Tea,6,4877.53,0.12,499.33
+1774,2022-01-21,914,Sabaragamuwa,Electronics,Headphones,8,539.69,0.13,-3.06
+1775,2025-07-13,915,North Central,Spices,Pepper,10,1904.83,0.03,432.28
+1776,2024-07-26,916,Southern,Tea,Earl Grey Tea,1,3879.81,0.06,291.25
+1777,2022-09-28,917,Eastern,Tea,Green Tea,1,246.89,0.16,30.21
+1778,2025-01-21,918,Sabaragamuwa,Spices,Nutmeg,3,337.8,0.05,53.08
+1779,2023-11-04,919,Uva,Food,Biscuits,5,3787.27,0.18,-185.53
+1780,2024-04-26,920,Central,Food,Beverages,3,1164.24,0.05,185.79
+1781,2022-07-18,921,Central,Tea,Ceylon Black Tea,7,4536.99,0.28,-600.32
+1782,2025-04-02,922,Central,Electronics,Laptop,10,1437.49,0.17,-44.02
+1783,2023-12-19,923,Northern,Food,Beverages,9,3711.59,0.19,-54.53
+1784,2022-01-10,924,Uva,Garments,Women's Saree,5,4443.62,0.22,-97.5
+1785,2023-02-04,925,Southern,Handicrafts,Lacquerware,5,3649.35,0.18,-82.53
+1786,2022-05-29,926,Southern,Spices,Cardamom,7,4598.44,0.16,620.55
+1787,2024-06-02,927,Southern,Handicrafts,Brass Ornament,2,2291.68,0.1,242.25
+1788,2022-07-06,928,North Western,Tea,Ceylon Black Tea,3,425.42,0.19,36.45
+1789,2023-06-06,929,Uva,Spices,Pepper,6,4641.72,0.13,508.66
+1790,2024-08-01,930,Central,Electronics,Headphones,2,1063.9,0.12,149.66
+1791,2024-05-14,931,Western,Tea,Green Tea,2,726.83,0.26,-44.84
+1792,2022-06-10,932,Sabaragamuwa,Electronics,Smartwatch,7,1847.18,0.21,-28.6
+1793,2024-04-23,933,Uva,Electronics,Smartwatch,10,838.01,0.26,-53.5
+1794,2022-05-20,934,Southern,Electronics,Smartwatch,8,859.21,0.19,-53.77
+1795,2024-09-11,935,Uva,Garments,Jeans,7,2024.16,0.12,159.43
+1796,2024-04-24,936,Central,Spices,Nutmeg,9,1891.77,0.23,-17.14
+1797,2022-12-18,937,Sabaragamuwa,Handicrafts,Lacquerware,6,1462.31,0.15,56.69
+1798,2023-07-26,938,Uva,Food,Beverages,10,403.71,0.07,18.13
+1799,2024-03-23,939,Southern,Spices,Cloves,9,512.1,0.18,-14.32
+1800,2022-09-05,940,Northern,Garments,Dress,3,935.89,0.07,101.68
+1801,2025-06-03,941,Southern,Handicrafts,Lacquerware,2,4301.13,0.15,330.1
+1802,2022-11-05,942,Southern,Spices,Cinnamon,3,3554.85,0.3,-243.97
+1803,2024-04-01,943,North Central,Tea,Herbal Tea,7,2072.75,0.02,219.06
+1804,2022-06-29,944,Central,Spices,Cloves,6,1031.48,0.28,2.0
+1805,2025-10-19,945,Eastern,Tea,Green Tea,6,2071.59,0.2,-33.96
+1806,2025-02-02,946,Central,Tea,Earl Grey Tea,10,4049.84,0.09,81.38
+1807,2025-11-29,947,Sabaragamuwa,Garments,Jeans,6,1939.13,0.29,-138.29
+1808,2025-07-14,948,North Western,Electronics,Smartwatch,5,3570.81,0.14,349.19
+1809,2023-07-17,949,Northern,Tea,Herbal Tea,9,2987.57,0.17,120.01
+1810,2022-09-16,950,Southern,Food,Beverages,1,3441.87,0.05,653.42
+1811,2022-07-10,951,Central,Food,Rice,1,3571.58,0.2,-242.19
+1812,2023-01-24,952,Southern,Electronics,Headphones,4,252.12,0.04,54.54
+1813,2025-09-24,953,Western,Spices,Cinnamon,8,4979.39,0.13,562.18
+1814,2023-06-03,954,Eastern,Handicrafts,Lacquerware,5,3400.0,0.09,582.11
+1815,2022-01-23,955,Northern,Garments,Women's Saree,3,4234.16,0.09,409.18
+1816,2022-03-16,956,Southern,Electronics,Headphones,2,3813.93,0.1,695.86
+1817,2025-10-23,957,Uva,Electronics,Smartwatch,3,1418.85,0.18,23.56
+1818,2024-08-19,958,Uva,Handicrafts,Brass Ornament,3,2451.44,0.27,-264.16
+1819,2023-12-23,959,North Central,Food,Beverages,1,3745.73,0.27,-219.69
+1820,2024-10-25,960,Uva,Spices,Cloves,8,2061.28,0.05,493.36
+1821,2024-03-27,961,Eastern,Garments,Dress,7,3345.29,0.03,252.43
+1822,2023-01-19,962,North Central,Electronics,Laptop,10,1503.59,0.21,46.87
+1823,2024-06-09,963,North Central,Electronics,Headphones,9,1053.64,0.08,228.81
+1824,2023-10-31,964,Northern,Handicrafts,Wooden Mask,4,3987.73,0.07,533.79
+1825,2022-08-26,965,Eastern,Tea,Ceylon Black Tea,7,1028.5,0.16,77.11
+1826,2025-05-21,966,North Central,Food,Biscuits,3,4335.33,0.25,-448.54
+1827,2024-08-30,967,Central,Garments,T-Shirt,3,1939.58,0.13,244.64
+1828,2023-01-29,968,North Central,Food,Coconut Oil,5,3526.57,0.22,-205.46
+1829,2025-08-02,969,Western,Spices,Cinnamon,8,1892.2,0.18,-83.54
+1830,2023-01-15,970,North Western,Spices,Cinnamon,7,4093.99,0.27,-659.37
+1831,2024-01-30,971,Northern,Electronics,Smartwatch,10,3517.06,0.05,320.63
+1832,2025-07-26,972,Western,Electronics,Smartwatch,9,1265.71,0.21,-83.58
+1833,2023-05-13,973,Sabaragamuwa,Electronics,Mobile Phone,2,2745.59,0.11,112.94
+1834,2022-05-06,974,North Western,Garments,Jeans,6,2906.54,0.1,15.09
+1835,2024-07-19,975,Western,Electronics,Headphones,9,4108.94,0.05,574.45
+1836,2025-12-19,976,Southern,Electronics,Headphones,7,464.52,0.05,83.36
+1837,2025-05-17,977,Central,Electronics,Headphones,10,2857.07,0.02,600.27
+1838,2024-09-30,978,Western,Spices,Cloves,5,3635.69,0.21,263.0
+1839,2022-05-16,979,Eastern,Food,Coconut Oil,3,4028.32,0.01,1060.26
+1840,2023-06-15,980,Uva,Garments,Women's Saree,8,3358.89,0.12,353.41
+1841,2022-11-09,981,Northern,Electronics,Laptop,6,1528.84,0.2,90.8
+1842,2024-09-04,982,North Western,Food,Beverages,2,3575.09,0.12,460.03
+1843,2024-10-23,983,Sabaragamuwa,Tea,Herbal Tea,8,1002.84,0.28,-19.38
+1844,2022-07-02,984,Western,Handicrafts,Brass Ornament,7,4368.73,0.26,-194.67
+1845,2024-06-12,985,Eastern,Electronics,Smartwatch,7,2514.63,0.1,494.06
+1846,2022-03-30,986,North Western,Tea,Ceylon Black Tea,10,1695.82,0.23,-188.73
+1847,2022-04-02,987,Southern,Electronics,Mobile Phone,9,396.54,0.28,-60.53
+1848,2023-03-15,988,Western,Tea,Ceylon Black Tea,9,2092.74,0.16,-43.8
+1849,2025-02-04,989,Eastern,Food,Beverages,7,1210.62,0.16,-53.45
+1850,2025-04-30,990,Northern,Electronics,Laptop,7,4039.59,0.19,64.18
+1851,2022-10-08,991,Central,Spices,Nutmeg,10,2955.95,0.19,-183.81
+1852,2025-07-23,992,Uva,Electronics,Laptop,6,4468.16,0.02,732.83
+1853,2023-02-06,993,Central,Electronics,Laptop,2,1316.75,0.27,-20.74
+1854,2024-06-17,994,North Western,Spices,Pepper,1,2271.28,0.2,-33.69
+1855,2022-09-23,995,North Western,Handicrafts,Lacquerware,4,836.2,0.02,200.86
+1856,2024-02-27,996,Uva,Food,Beverages,5,3229.46,0.01,635.03
+1857,2024-05-28,997,Southern,Handicrafts,Brass Ornament,2,4566.82,0.03,542.9
+1858,2022-12-31,998,Western,Garments,Men's Shirt,8,3627.92,0.14,200.42
+1859,2023-05-21,999,Southern,Electronics,Mobile Phone,7,810.39,0.11,65.59
+1860,2022-03-08,1000,Sabaragamuwa,Spices,Cinnamon,10,2522.08,0.14,-35.41
+1861,2022-01-28,1001,Eastern,Food,Beverages,10,4710.95,0.17,2.65
+1862,2023-05-22,1002,Western,Food,Rice,5,1326.41,0.16,53.16
+1863,2024-11-16,1003,Uva,Tea,Ceylon Black Tea,3,4061.89,0.04,716.16
+1864,2023-05-24,1004,Western,Electronics,Mobile Phone,10,4144.72,0.13,280.51
+1865,2024-08-31,1005,North Western,Tea,Herbal Tea,9,4555.86,0.05,1110.7
+1866,2024-08-09,1006,Uva,Handicrafts,Lacquerware,8,833.55,0.26,-51.56
+1867,2022-08-07,1007,Sabaragamuwa,Tea,Earl Grey Tea,6,3748.96,0.24,-28.6
+1868,2023-04-20,1008,North Central,Electronics,Mobile Phone,8,672.98,0.13,52.41
+1869,2024-12-17,1009,North Western,Tea,Green Tea,3,1248.6,0.09,209.39
+1870,2025-03-18,1010,Central,Spices,Pepper,7,4336.66,0.04,314.89
+1871,2024-12-31,1011,Uva,Food,Snacks,8,2057.62,0.28,-54.91
+1872,2024-09-05,1012,Central,Food,Biscuits,10,2834.73,0.04,422.95
+1873,2023-08-15,1013,Southern,Food,Beverages,9,3049.17,0.25,-203.44
+1874,2022-05-19,1014,Eastern,Garments,Women's Saree,5,663.85,0.06,86.06
+1875,2023-09-05,1015,Western,Food,Biscuits,10,1798.08,0.16,149.14
+1876,2022-12-09,1016,Sabaragamuwa,Food,Rice,6,4071.43,0.24,-138.26
+1877,2024-05-11,1017,North Western,Food,Coconut Oil,7,4267.99,0.19,-209.7
+1878,2025-07-23,1018,North Western,Tea,Earl Grey Tea,7,1451.41,0.08,177.24
+1879,2022-01-06,1019,North Central,Spices,Cinnamon,9,3114.62,0.23,-0.24
+1880,2024-12-30,1020,North Central,Electronics,Smartwatch,3,1869.01,0.3,-109.74
+1881,2024-12-22,1021,Central,Handicrafts,Brass Ornament,9,728.08,0.1,58.03
+1882,2024-03-15,1022,Southern,Garments,Jeans,2,3594.75,0.2,304.92
+1883,2024-06-10,1023,Central,Handicrafts,Lacquerware,5,1858.5,0.19,147.24
+1884,2023-07-17,1024,North Western,Electronics,Headphones,3,379.23,0.15,17.01
+1885,2022-05-22,1025,Eastern,Handicrafts,Brass Ornament,8,682.89,0.18,-45.69
+1886,2022-10-18,1026,Northern,Garments,Jeans,6,891.07,0.16,65.93
+1887,2022-10-20,1027,North Central,Electronics,Mobile Phone,1,625.82,0.24,18.62
+1888,2024-10-17,1028,North Western,Handicrafts,Brass Ornament,4,3079.09,0.23,-338.34
+1889,2023-07-12,1029,Eastern,Tea,Green Tea,7,4883.21,0.03,1202.23
+1890,2025-04-10,1030,North Central,Electronics,Smartwatch,3,4447.97,0.18,408.06
+1891,2024-12-05,1031,Northern,Handicrafts,Wooden Mask,4,540.56,0.02,115.19
+1892,2022-10-25,1032,North Central,Food,Beverages,5,1785.05,0.17,182.37
+1893,2024-03-18,1033,Northern,Garments,Dress,7,3654.93,0.2,-129.89
+1894,2025-10-18,1034,Northern,Garments,Dress,10,3962.48,0.13,421.92
+1895,2022-02-14,1035,Southern,Tea,Herbal Tea,8,542.24,0.05,31.81
+1896,2022-01-13,1036,Central,Handicrafts,Brass Ornament,5,3731.07,0.22,-425.09
+1897,2024-08-01,1037,Eastern,Garments,Jeans,2,2927.12,0.07,462.32
+1898,2024-01-13,1038,North Central,Tea,Earl Grey Tea,9,2897.34,0.12,22.77
+1899,2023-10-30,1039,North Central,Garments,Women's Saree,6,3860.88,0.07,202.08
+1900,2025-06-02,1040,Western,Handicrafts,Handloom Bag,3,2944.15,0.3,-429.71
+1901,2024-07-29,1041,Sabaragamuwa,Handicrafts,Wooden Mask,6,4967.91,0.0,1453.35
+1902,2025-09-23,1042,Central,Electronics,Smartwatch,9,2083.2,0.04,469.57
+1903,2023-01-20,1043,Uva,Garments,T-Shirt,8,1681.79,0.02,352.07
+1904,2022-11-23,1044,Northern,Garments,Jeans,9,471.1,0.15,17.84
+1905,2022-08-12,1045,Southern,Garments,Women's Saree,6,4085.69,0.01,427.21
+1906,2023-12-21,1046,North Central,Electronics,Smartwatch,8,4756.59,0.28,6.27
+1907,2022-06-19,1047,Northern,Spices,Cardamom,1,1915.94,0.06,402.25
+1908,2025-03-01,1048,Eastern,Garments,Men's Shirt,6,3309.18,0.1,316.41
+1909,2022-10-08,1049,Uva,Electronics,Headphones,4,765.88,0.11,15.17
+1910,2024-08-18,1050,Southern,Garments,Jeans,5,2888.36,0.24,-136.42
+1911,2024-05-27,1051,Uva,Handicrafts,Handloom Bag,3,1609.11,0.0,313.43
+1912,2025-07-24,1052,Sabaragamuwa,Food,Snacks,3,1717.19,0.28,-172.13
+1913,2022-05-09,1053,Southern,Electronics,Laptop,8,2910.21,0.02,766.52
+1914,2024-11-20,1054,Uva,Food,Biscuits,8,2419.02,0.17,61.08
+1915,2025-06-23,1055,Southern,Spices,Cardamom,4,2660.85,0.13,349.97
+1916,2022-10-13,1056,North Central,Tea,Herbal Tea,8,875.34,0.26,-89.57
+1917,2025-05-09,1057,Uva,Tea,Herbal Tea,7,2155.26,0.15,-22.0
+1918,2022-02-12,1058,Western,Electronics,Mobile Phone,3,661.21,0.02,123.89
+1919,2024-05-12,1059,North Central,Handicrafts,Lacquerware,1,2113.0,0.07,222.96
+1920,2022-03-05,1060,North Western,Food,Snacks,8,2442.4,0.12,279.17
+1921,2025-03-02,1061,Western,Electronics,Mobile Phone,10,1666.05,0.1,210.81
+1922,2025-10-04,1062,Uva,Food,Snacks,1,4656.7,0.01,997.44
+1923,2024-10-09,1063,Northern,Electronics,Smartwatch,10,1262.81,0.29,-217.29
+1924,2022-05-29,1064,Central,Food,Biscuits,2,1630.72,0.05,188.23
+1925,2024-10-21,1065,Uva,Garments,T-Shirt,2,4017.21,0.13,-117.6
+1926,2023-08-13,1066,North Central,Spices,Cardamom,9,3831.18,0.05,716.96
+1927,2025-07-13,1067,Central,Spices,Nutmeg,9,1929.47,0.22,148.93
+1928,2025-02-05,1068,Western,Electronics,Smartwatch,5,3328.53,0.13,293.8
+1929,2024-06-12,1069,Uva,Electronics,Mobile Phone,8,4386.65,0.27,-25.71
+1930,2023-10-28,1070,Uva,Tea,Green Tea,9,2753.17,0.12,37.67
+1931,2024-05-18,1071,Uva,Food,Biscuits,7,2289.13,0.13,231.51
+1932,2024-11-15,1072,Sabaragamuwa,Electronics,Laptop,2,1281.82,0.13,83.18
+1933,2022-11-02,1073,Eastern,Tea,Earl Grey Tea,1,2362.14,0.03,428.5
+1934,2024-05-14,1074,Western,Spices,Cardamom,1,291.53,0.16,5.83
+1935,2022-09-30,1075,Sabaragamuwa,Tea,Ceylon Black Tea,5,2592.73,0.17,198.27
+1936,2025-09-19,1076,Central,Spices,Cinnamon,7,3718.59,0.06,791.32
+1937,2025-02-28,1077,Northern,Food,Coconut Oil,9,1581.41,0.3,-169.9
+1938,2025-03-29,1078,Uva,Electronics,Laptop,9,1201.44,0.24,-39.86
+1939,2022-04-20,1079,Western,Food,Biscuits,2,2878.17,0.1,258.09
+1940,2024-01-22,1080,North Central,Electronics,Headphones,4,216.85,0.14,1.17
+1941,2024-12-27,1081,Eastern,Electronics,Mobile Phone,1,895.67,0.14,49.35
+1942,2022-09-07,1082,Eastern,Tea,Earl Grey Tea,10,4958.63,0.15,417.12
+1943,2024-05-04,1083,Northern,Handicrafts,Handloom Bag,4,1330.4,0.08,182.35
+1944,2025-06-28,1084,Southern,Tea,Green Tea,5,2093.06,0.06,121.4
+1945,2023-03-31,1085,Sabaragamuwa,Garments,Men's Shirt,5,1259.51,0.23,-55.29
+1946,2023-09-30,1086,Northern,Spices,Pepper,5,3746.51,0.0,792.08
+1947,2022-02-16,1087,North Central,Tea,Green Tea,6,3076.02,0.21,-209.26
+1948,2022-09-04,1088,Northern,Electronics,Smartwatch,4,1923.83,0.07,172.25
+1949,2024-03-08,1089,Eastern,Spices,Pepper,6,1708.37,0.2,-74.82
+1950,2025-01-16,1090,Central,Spices,Cinnamon,7,1417.52,0.03,309.99
+1951,2024-12-02,1091,Eastern,Tea,Earl Grey Tea,1,3709.77,0.17,227.22
+1952,2022-09-02,1092,Southern,Food,Biscuits,1,3152.45,0.11,253.73
+1953,2022-09-25,1093,Central,Garments,Jeans,2,4432.47,0.28,-367.01
+1954,2024-01-03,1094,Northern,Garments,Jeans,10,1631.99,0.27,-138.54
+1955,2024-08-25,1095,Southern,Handicrafts,Lacquerware,6,1679.6,0.22,105.29
+1956,2023-12-21,1096,Western,Electronics,Headphones,9,4997.23,0.0,828.64
+1957,2024-01-06,1097,Uva,Garments,Dress,5,1172.97,0.07,169.01
+1958,2025-04-11,1098,Southern,Electronics,Headphones,2,2412.51,0.2,105.93
+1959,2022-07-17,1099,Southern,Tea,Earl Grey Tea,3,2970.01,0.05,398.44
+1960,2023-10-18,1100,Eastern,Electronics,Headphones,8,236.07,0.28,-19.03
+1961,2022-03-21,1101,Southern,Spices,Nutmeg,5,1238.31,0.12,-13.55
+1962,2022-06-30,1102,North Central,Spices,Cloves,6,1538.71,0.13,138.96
+1963,2022-01-06,1103,Central,Food,Rice,9,3856.38,0.03,930.16
+1964,2023-04-06,1104,Central,Handicrafts,Brass Ornament,6,1802.02,0.06,215.07
+1965,2024-08-18,1105,North Western,Spices,Cinnamon,2,1593.21,0.24,65.05
+1966,2025-07-17,1106,Sabaragamuwa,Garments,Men's Shirt,9,3106.53,0.23,-87.4
+1967,2023-04-07,1107,Western,Handicrafts,Wooden Mask,6,3045.47,0.0,909.57
+1968,2024-05-13,1108,Northern,Garments,Men's Shirt,6,3136.32,0.21,-306.89
+1969,2024-08-16,1109,Northern,Spices,Cinnamon,9,2251.0,0.11,163.66
+1970,2022-04-17,1110,Southern,Tea,Earl Grey Tea,1,414.71,0.22,27.19
+1971,2023-11-02,1111,North Central,Handicrafts,Handloom Bag,8,3555.43,0.1,648.89
+1972,2022-06-12,1112,Northern,Tea,Herbal Tea,1,4956.66,0.03,995.08
+1973,2024-10-23,1113,North Central,Garments,Women's Saree,10,2064.29,0.23,7.96
+1974,2025-03-22,1114,Northern,Garments,Men's Shirt,5,443.16,0.3,-2.21
+1975,2022-12-16,1115,Southern,Spices,Cloves,6,3936.59,0.19,152.94
+1976,2025-09-09,1116,Central,Tea,Herbal Tea,2,1816.48,0.2,-158.4
+1977,2022-02-18,1117,Northern,Handicrafts,Wooden Mask,9,2952.48,0.12,105.85
+1978,2022-08-08,1118,Southern,Food,Coconut Oil,3,838.78,0.19,89.48
+1979,2024-12-28,1119,Sabaragamuwa,Food,Beverages,4,1875.55,0.08,222.98
+1980,2024-06-01,1120,North Western,Electronics,Headphones,1,3111.39,0.09,262.86
+1981,2023-08-13,1121,Northern,Garments,Jeans,6,2934.35,0.09,439.93
+1982,2022-07-30,1122,North Western,Garments,T-Shirt,6,3346.02,0.25,-463.92
+1983,2025-02-20,1123,Western,Food,Coconut Oil,1,851.16,0.24,14.35
+1984,2025-10-28,1124,Western,Handicrafts,Wooden Mask,7,1254.24,0.16,43.0
+1985,2022-05-08,1125,Uva,Food,Beverages,8,3509.62,0.07,250.24
+1986,2022-01-24,1126,Western,Tea,Earl Grey Tea,3,4072.57,0.11,-18.73
+1987,2024-09-09,1127,Western,Spices,Cinnamon,3,4108.85,0.23,49.28
+1988,2024-11-24,1128,Uva,Handicrafts,Brass Ornament,10,2823.15,0.17,216.9
+1989,2024-04-29,1129,Central,Spices,Cardamom,7,4682.3,0.06,900.16
+1990,2025-03-27,1130,Sabaragamuwa,Electronics,Headphones,8,3317.95,0.26,-370.34
+1991,2024-05-30,1131,Sabaragamuwa,Tea,Earl Grey Tea,6,2615.84,0.07,599.62
+1992,2023-09-06,1132,North Central,Garments,Men's Shirt,7,508.87,0.04,76.36
+1993,2022-03-15,1133,Western,Tea,Ceylon Black Tea,9,4281.46,0.18,61.02
+1994,2024-04-30,1134,North Western,Food,Snacks,5,2074.95,0.03,408.23
+1995,2025-06-27,1135,Western,Tea,Green Tea,1,2529.46,0.22,-280.55
+1996,2025-02-21,1136,Eastern,Electronics,Laptop,4,1944.07,0.2,-140.04
+1997,2023-01-06,1137,Western,Tea,Earl Grey Tea,2,2907.47,0.02,316.97
+1998,2024-05-16,1138,Northern,Handicrafts,Wooden Mask,5,925.37,0.28,-138.76
+1999,2023-08-28,1139,Eastern,Tea,Green Tea,9,4490.88,0.14,3.65
+2000,2022-04-02,1140,North Western,Food,Beverages,9,3207.62,0.07,157.17
