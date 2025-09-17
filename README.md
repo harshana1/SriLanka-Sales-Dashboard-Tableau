@@ -14,7 +14,7 @@ The dashboard helps analyze **sales performance, profitability, product performa
 ---
 
 ## 📁 Dataset  
-- **Source:** *Self-created synthetic dataset (~1000 rows)*  
+- **Source:** *Synthetic dataset (~1000 rows)*  
 - **File:** `Sales_Profit_Data.xlsx`  
 - **Description:** Transaction-level dataset including order details, customers, products, and sales metrics.  
 
