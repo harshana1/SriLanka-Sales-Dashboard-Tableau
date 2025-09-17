@@ -2,7 +2,7 @@
 
 [![Made with Tableau](https://img.shields.io/badge/Made%20with-Tableau-blue?logo=tableau)](https://public.tableau.com/)  
 [![Made with Excel](https://img.shields.io/badge/Data%20Prep-Excel-green?logo=microsoft-excel)](https://www.microsoft.com/excel)  
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/yourusername/Sales_Profit_Dashboard_Project?color=orange)]()  
+
 
 ---
 
